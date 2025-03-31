@@ -1,0 +1,552 @@
+/* ============================= */
+/*           Global              */
+/* ============================= */
+
+.home-page {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  overflow-x: hidden;
+}
+
+/* ============================= */
+/*         Hero Section          */
+/* ============================= */
+
+.hero-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-image: url("../assets/container.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+/* Premium Dark Gradient with Overlay */
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    135deg, 
+    rgba(0, 0, 0, 0.85) 0%, 
+    rgba(0, 0, 0, 0.7) 50%, 
+    rgba(0, 0, 0, 0.85) 100%
+  );
+  z-index: 1;
+}
+
+/* Hero Content Styling */
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 85%;
+  padding: 2rem;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.hero-title {
+  font-size: 64px;
+  font-weight: 800;
+  margin-bottom: 20px;
+  color: #fff;
+  letter-spacing: 2px;
+  line-height: 1.2;
+}
+
+.hero-subtitle {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 auto 40px;
+  max-width: 700px;
+  color: rgba(255, 255, 255, 0.9);
+  letter-spacing: 0.5px;
+}
+
+.cta-button {
+  background: linear-gradient(135deg, #f8b400, #ff8303);
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 16px 32px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(248, 180, 0, 0.3);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cta-button:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 7px 20px rgba(248, 180, 0, 0.4);
+  background: linear-gradient(135deg, #ff8303, #f8b400);
+}
+
+/* Scroll Down Indicator */
+.scroll-indicator {
+  position: absolute;
+  bottom: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.scroll-indicator span {
+  display: block;
+  width: 8px;
+  height: 8px;
+  margin: 4px;
+  border-radius: 50%;
+  background-color: white;
+  opacity: 0.7;
+  animation: scrollDown 1.5s ease-in-out infinite;
+}
+
+.scroll-indicator span:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.scroll-indicator span:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes scrollDown {
+  0% { transform: translateY(0); opacity: 0.7; }
+  50% { transform: translateY(10px); opacity: 1; }
+  100% { transform: translateY(0); opacity: 0.7; }
+}
+
+/* ============================= */
+/*        Intro Section          */
+/* ============================= */
+
+.intro-section {
+  padding: 100px 10%;
+  background-color: #fff;
+  text-align: center;
+}
+
+.intro-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.intro-section h2 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #222;
+  position: relative;
+  display: inline-block;
+}
+
+.intro-section h2:after {
+  content: '';
+  position: absolute;
+  bottom: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(90deg, #f8b400, #ff8303);
+  border-radius: 2px;
+}
+
+.intro-section p {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #555;
+}
+
+/* ============================= */
+/*       Features Section        */
+/* ============================= */
+
+.features-section {
+  padding: 80px 0;
+  background-color: #f9f9f9;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.section-header h2 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #222;
+  margin-bottom: 15px;
+}
+
+.section-header p {
+  font-size: 18px;
+  color: #666;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.hotel-info-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 30px;
+  padding: 0 5%;
+  justify-items: center;
+}
+
+.feature-card {
+  width: 100%;
+  max-width: 380px;
+  background: #ffffff;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.feature-card:hover {
+  transform: translateY(-15px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+}
+
+.feature-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease-in-out;
+}
+
+.feature-card:hover .feature-img {
+  transform: scale(1.1);
+}
+
+.image-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 50%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+}
+
+.info-content {
+  padding: 25px;
+}
+
+.info-content h3 {
+  font-size: 22px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.info-content h3:after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  width: 50px;
+  height: 3px;
+  background: #f8b400;
+  border-radius: 2px;
+}
+
+.info-content p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #666;
+}
+
+/* ============================= */
+/*      Testimonial Section      */
+/* ============================= */
+
+.testimonial-section {
+  padding: 120px 5%;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../assets/container.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+  color: white;
+}
+
+.testimonial-container {
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.quote-icon {
+  font-size: 120px;
+  line-height: 0;
+  position: absolute;
+  top: -60px;
+  left: 0;
+  color: rgba(248, 180, 0, 0.3);
+  font-family: Georgia, serif;
+}
+
+.testimonial-text {
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.8;
+  margin-bottom: 30px;
+  position: relative;
+  z-index: 1;
+}
+
+.testimonial-author {
+  margin-top: 40px;
+}
+
+.author-name {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #f8b400;
+}
+
+.author-title {
+  font-size: 16px;
+  opacity: 0.8;
+}
+
+/* ============================= */
+/*      Responsive Design        */
+/* ============================= */
+
+/* Large Screens */
+@media (min-width: 1441px) {
+  .hero-title {
+    font-size: 72px;
+  }
+  
+  .hero-subtitle {
+    font-size: 28px;
+  }
+  
+  .hotel-info-container {
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+}
+
+/* Medium Screens */
+@media (max-width: 1024px) {
+  .hero-title {
+    font-size: 56px;
+  }
+  
+  .hero-subtitle {
+    font-size: 22px;
+  }
+  
+  .intro-section {
+    padding: 80px 8%;
+  }
+  
+  .intro-section h2 {
+    font-size: 36px;
+  }
+  
+  .feature-card {
+    max-width: 340px;
+  }
+  
+  .image-container {
+    height: 220px;
+  }
+  
+  .testimonial-text {
+    font-size: 22px;
+  }
+}
+
+/* Tablet Screens */
+@media (max-width: 768px) {
+  .hero-container {
+    height: 90vh;
+  }
+  
+  .hero-title {
+    font-size: 48px;
+  }
+  
+  .hero-subtitle {
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .cta-button {
+    padding: 14px 28px;
+    font-size: 16px;
+  }
+  
+  .intro-section {
+    padding: 70px 6%;
+  }
+  
+  .intro-section h2 {
+    font-size: 32px;
+  }
+  
+  .intro-section p {
+    font-size: 16px;
+  }
+  
+  .section-header h2 {
+    font-size: 32px;
+  }
+  
+  .hotel-info-container {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  
+  .testimonial-section {
+    padding: 100px 8%;
+  }
+  
+  .testimonial-text {
+    font-size: 20px;
+  }
+}
+
+/* Mobile Screens */
+@media (max-width: 576px) {
+  .hero-container {
+    height: 85vh;
+  }
+  
+  .hero-title {
+    font-size: 36px;
+  }
+  
+  .hero-subtitle {
+    font-size: 18px;
+    margin-bottom: 25px;
+  }
+  
+  .cta-button {
+    padding: 12px 24px;
+    font-size: 15px;
+  }
+  
+  .scroll-indicator {
+    bottom: 30px;
+  }
+  
+  .intro-section {
+    padding: 60px 5%;
+  }
+  
+  .intro-section h2 {
+    font-size: 28px;
+  }
+  
+  .intro-section p {
+    font-size: 15px;
+  }
+  
+  .section-header h2 {
+    font-size: 28px;
+  }
+  
+  .section-header p {
+    font-size: 15px;
+  }
+  
+  .hotel-info-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .feature-card {
+    max-width: 100%;
+  }
+  
+  .image-container {
+    height: 200px;
+  }
+  
+  .testimonial-section {
+    padding: 80px 5%;
+  }
+  
+  .testimonial-text {
+    font-size: 18px;
+  }
+  
+  .quote-icon {
+    font-size: 80px;
+    top: -40px;
+  }
+  
+  .author-name {
+    font-size: 18px;
+  }
+  
+  .author-title {
+    font-size: 14px;
+  }
+}
+
+/* Super Small Screens */
+@media (max-width: 350px) {
+  .hero-title {
+    font-size: 30px;
+  }
+  
+  .hero-subtitle {
+    font-size: 16px;
+  }
+  
+  .info-content h3 {
+    font-size: 20px;
+  }
+  
+  .info-content p {
+    font-size: 14px;
+  }
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInUp {
+  from { transform: translateY(50px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes slideInDown {
+  from { transform: translateY(-50px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
