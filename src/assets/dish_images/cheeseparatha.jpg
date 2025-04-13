@@ -1,0 +1,866 @@
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page Not Found</title>
+  <meta name="description" content="Discover a vast collection of Indian vegetarian recipes, healthy meal ideas, quick snacks, and delicious desserts by Tarla Dalal. Explore low-calorie, diabetic-friendly, and Jain recipes with step-by-step cooking guides and expert tips.">
+  <meta name="keywords" content="Indian recipes, vegetarian recipes, healthy recipes, Indian cooking, quick recipes, low-calorie recipes, vegan recipes, breakfast recipes, dessert recipes, Indian snacks, weight loss recipes, diabetic recipes, gluten-free recipes, homemade food, tarladalal recipes, Indian food, South Indian recipes, North Indian recipes, easy recipes, Jain recipes, kids recipes, cooking tips.">
+  <meta name="author" content="Tarla Dalal">
+  <meta name="robots" content="index, follow">
+  <meta property="og:type" content="website">
+  <link rel="icon" type="image/x-icon" href="/static/frontend/img/favicon.ico">
+   <!-- Canonical URL -->
+  <link rel="canonical" href="https://www.tarladalal.com/members/9306/big/big_cheese_paratha-11479.jpg?size=696X905">
+  
+  <link href="/static/frontend/dist/css/bootstrap.min.css" rel="stylesheet">
+   <!-- select data-live-search -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
+   <!-- /select data-live-search -->
+  <link href="/static/frontend/css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/static/frontend/css/magnific-popup.css">
+  <link rel="stylesheet" href="/static/frontend/css/social-share.css">
+  <link rel="stylesheet" href="/static/frontend/css/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="/static/frontend/css/swiper-bundle.min.css" />
+  <!-- Owl Carousel CSS -->
+  <link rel="stylesheet" href="/static/frontend/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/static/frontend/css/owl.theme.default.min.css">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6361570058795809"
+     crossorigin="anonymous"></script>
+  <script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+  </script>   
+	<style>
+     
+	.play-button {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 60px;
+            height: 60px;
+            background: url('/static/frontend/img/icons/play-icon.svg') no-repeat center center;
+            background-size: contain;
+            cursor: pointer;
+        }
+    img {
+          max-width: 100%;
+          height: auto;
+      }
+    .logo{
+      width: 210px;
+      height: auto;
+    } 
+    /* Add custom hover background color */
+   .search-btn {
+     background-color: #00aaa1; /* Default background */
+     border: none;
+     height: 100%; 
+   }
+   
+   .search-btn:hover {
+     background-color: #0056b3; /* Hover background */
+     
+     transition: background-color 0.3s ease; /* Smooth transition */
+   }  
+   .form-control {
+    height: 100%; /* Adjust to match button height */
+   }  
+   .ingredients ul P{
+    margin:0px;
+  }          
+	</style>
+  
+<style>
+    .error-container {
+        text-align: center;
+        margin: 100px 0;
+    }
+    .error-title {
+        font-size: 100px;
+        font-weight: bold;
+        color: #ff5722;
+    }
+    .error-text {
+        font-size: 24px;
+        color: #333;
+    }
+    .home-button {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: #ff5722;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-size: 18px;
+    }
+    .home-button:hover {
+        background-color: #e64a19;
+    }
+</style>
+
+
+  <!--  -->
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NM1ECVX1H3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NM1ECVX1H3');
+</script>
+</head>
+
+<body>
+    
+<header>
+<div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+	<div class="offcanvas-header">
+	  <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+	</div>
+	<div class="offcanvas-body">
+		  <a href="/" class="h-link"><img src="/static/frontend/logo/tarla-dalal-logo.png" class="logo" alt="logo" height="40" /></a>
+		  <p class="text-gray fw-medium">Menu</p>
+		  <ul class="top-list-menu">
+			  <li><a href="/">Home</a></li>
+			  <li><a href="/cuisine-recipe/">Cuisine</a></li>
+			  <li><a href="/health-recipe/">Health</a></li>
+			  <li><a href="/articles/">Article</a></li>
+			  
+			  <li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="/recipe-category/" role="button" data-bs-toggle="dropdown">Categories</a>
+				<ul class="dropdown-menu">
+				  
+				   
+				  <li><a class="dropdown-item" href="/category/Healthy-Indian-Recipes/">Healthy Indian Recipes</a></li>
+				  
+				  
+				   
+				  <li><a class="dropdown-item" href="/category/quick-recipe/">Quick Recipe</a></li>
+				  
+				  
+				   
+				  <li><a class="dropdown-item" href="/category/cuisine/">Cuisine</a></li>
+				  
+				  
+				   
+				  <li><a class="dropdown-item" href="/category/kids/">Kids Recipes</a></li>
+				  
+				  
+				   
+				  <li><a class="dropdown-item" href="/category/Course-Veg-Course/">Course</a></li>
+				  
+				  
+				   
+				  
+				   
+				  <li><a class="dropdown-item" href="/category/equipment/">Equipment</a></li>
+				  
+				  
+				   
+				  <li><a class="dropdown-item" href="/category/cooking-basics/">Cooking Basics</a></li>
+				  
+				  
+				   
+				  <li><a class="dropdown-item" href="/category/occasion-party/">Occasion &amp; Party</a></li>
+				  
+				  
+				   
+				  
+				   
+				  
+				  <li><a class="dropdown-item" href="/recipe-category/">View All Category</a></li>
+				</ul>
+			  </li>
+			  <li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">More</a>
+				<ul class="dropdown-menu">
+				  <li><a class="dropdown-item" href="/glossary-category/">Glossary</a></li>
+				  <li><a class="dropdown-item" href="/glossarysearch/">Glossary Search</a></li>
+				  <li><a class="dropdown-item" href="/recipes/categorysearch/">Recipe Category Search</a></li>
+				  <li><a class="dropdown-item" href="/videos/">Videos</a></li>
+				  <li><a class="dropdown-item" href="/video-category/">Recipe Video Categories</a></li>
+				</ul>
+			  </li>
+		  </ul>
+	</div>
+  </div>
+<nav class="navbar border-bottom box-shadow fixed-top pt-3 pb-2 mb-2">
+  <div class="container">
+	<div class="row d-flex align-items-center justify-content-between w-100">
+	  <div class="col-xs-4 col-sm-4 col-md-4 col-lg-3">
+		<a class="menu d-flex align-items-center" href="" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample" aria-controls="offcanvasExample">
+		  <i class="fa fa-bars primary"></i>
+		  <strong class="ms-2 fw-medium">Menu</strong>
+		</a>
+	  </div>
+	  <div class="col-xs-4 col-sm-4 col-md-4 col-lg-6 d-flex align-items-center flex-column">
+		<a href="/" class="h-link"><img src="/static/frontend/logo/tarla-dalal-logo.png" class="logo" alt="logo" height="40" /></a>
+		<ul class="navbar-nav d-flex flex-row mob-hide">
+		  <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+		  <li class="nav-item"><a class="nav-link" href="/cuisine-recipe/">Cuisine</a></li>
+		  <li class="nav-item">
+			<a class="nav-link" href="/health-recipe/">Health</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="/articles/">Article</a>
+		  </li>
+		  <li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="/recipe-category/" role="button" data-bs-toggle="dropdown">Categories</a>
+			<ul class="dropdown-menu">
+			  
+			   
+			  <li><a class="dropdown-item" href="/category/Healthy-Indian-Recipes/">Healthy Indian Recipes</a></li>
+			  
+			  
+			   
+			  <li><a class="dropdown-item" href="/category/quick-recipe/">Quick Recipe</a></li>
+			  
+			  
+			   
+			  <li><a class="dropdown-item" href="/category/cuisine/">Cuisine</a></li>
+			  
+			  
+			   
+			  <li><a class="dropdown-item" href="/category/kids/">Kids Recipes</a></li>
+			  
+			  
+			   
+			  <li><a class="dropdown-item" href="/category/Course-Veg-Course/">Course</a></li>
+			  
+			  
+			   
+			  
+			   
+			  <li><a class="dropdown-item" href="/category/equipment/">Equipment</a></li>
+			  
+			  
+			   
+			  <li><a class="dropdown-item" href="/category/cooking-basics/">Cooking Basics</a></li>
+			  
+			  
+			   
+			  <li><a class="dropdown-item" href="/category/occasion-party/">Occasion &amp; Party</a></li>
+			  
+			  
+			   
+			  
+			   
+			  
+			  <li><a class="dropdown-item" href="/recipe-category/">View All Category</a></li>
+			</ul>
+		  </li>
+		  <li class="nav-item dropdown">
+			<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">More</a>
+			<ul class="dropdown-menu">
+			  <li><a class="dropdown-item" href="/glossary-category/">Glossary</a></li>
+			  <li><a class="dropdown-item" href="/glossarysearch/">Glossary Search</a></li>
+			  <li><a class="dropdown-item" href="/recipes/categorysearch/">Recipe Category Search</a></li>
+			  <li><a class="dropdown-item" href="/videos/">Videos</a></li>
+			  <li><a class="dropdown-item" href="/video-category/">Recipe Video Categories</a></li>
+			</ul>
+		  </li>
+		</ul>
+	  </div>
+	  <div class="col-xs-4 col-sm-4 col-md-4 col-lg-3 btn-group align-items-center justify-content-end gap-3">
+		<a href="#"><i class="fa fa-search primary search-show"></i></a>
+		<a href="" class=" dropdown-toggle" data-bs-toggle="dropdown">En</a>
+		<div class="dropdown-menu">
+		  <a class="dropdown-item" href="/">English</a>
+		  <a class="dropdown-item" href="/recipesinhindi/">हिंदी</a>
+		  <a class="dropdown-item" href="/recipesingujarati/">ગુજરાતી</a>
+		</div>
+		
+		<a href="/accounts/login/" class=""><i class="fa fa-user desk-hide"></i> <span class="mob-hide">Login / Signup</span></a>
+		
+	</div>
+	</div>
+  </div>
+</nav>
+</header>
+    
+<main>
+    <section class="py-5">
+        <div class="container">
+            <div class="error-container">
+                <div class="error-title">404</div>
+                <p class="error-text">Oops! The page you are looking for was not found.</p>
+                <a href="/" class="home-button">Go to Homepage</a>
+            </div>
+        </div>
+    </section>
+</main>
+
+<!-- footer 1st start -->
+
+
+<footer class="footer pt-5 pb-4">
+    <div class="row">
+
+<div class="col-md-3">
+<h1><a href="/"><img src="/static/frontend/img/tdlogo.jpg" class="mb-2" width="150" /></a></h1>
+<p>Tarla Dalal's recipe website is a go-to destination for vegetarian Indian recipes.</p>           
+<ul class="d-flex gap-2 social">
+   <li><a href="https://www.facebook.com/people/Tarla-Dalal/100051311678691/"><i class="fa fa-facebook"></i></a></li>
+   <li><a href="https://www.instagram.com/tarladalal/"><i class="fa fa-instagram"></i></a></li>
+   <li><a href="https://www.youtube.com/user/TarlaDalalsKitchen"><i class="fa fa-play"></i></a>
+  </li>
+</ul>
+</div>
+<div class="col-md-9">
+<div class="row">
+<div class="col-md-3 mw-50">
+<h2 class="font-size-18 fw-bold">What's New</h2>
+<ul class="box">
+    <li><a href="/latest-recipes/" class="h-link">Latest Recipes</a></li>
+    
+    <li><a href="/recipes/" class="h-link">Recipes List</a></li>
+    <li><a href="/calories-list/" class="h-link">Calories List</a></li>
+    <li><a href="/recipe-using-list/" class="h-link">Recipe Using List</a></li>
+    <li><a href="/recipe-videos/" class="h-link">Newest Videos</a></li>
+    <!--<li><a href="#">Dribbble</a></li> -->
+</ul>
+</div>
+<div class="col-md-3 mw-50">
+<h2 class="font-size-18 fw-bold">What's Latest</h2>
+<ul class="box">
+    
+    <li><a href="/recipecategory/"  class="h-link">Recipe Categories</a></li>
+    <li><a href="/recipecategories-hindi/"  class="h-link">Recipe Categories Hindi</a></li>
+    <li><a href="/recipecategories-gujarati/"  class="h-link">Recipe Categories Gujarati</a></li>
+    <li><a href="/glossary-category/" class="h-link">Glossary</a></li>
+    <li><a href="/ingredients-list/" class="h-link">Ingredients</a></li>
+</ul>
+</div>
+<div class="col-md-2 mw-30">
+<h2 class="font-size-18 fw-bold">Fine Print</h2>
+<ul class="box">
+    <li><a href="/termsofusage/" class="h-link">Terms of Use</a></li>
+    <li><a href="/aboutcopyrights/" class="h-link">About Copyrights</a></li>
+    <li><a href="/privacy-policy/" class="h-link">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="col-md-4 mw-70">
+<h2 class="font-size-18 fw-bold">Associate with us</h2>
+<ul class="box h-box">
+    <li><a href="/about-tarladalal/" class="h-link">About Tarla Dalal</a></li>
+    <li><a href="/tribute-to-tarla-dalal/" class="h-link">Tribute to Tarla Dalal</a></li>
+    <li><a href="/faqs/" class="h-link">FAQs</a></li>
+    <li><a href="/advertise-with-us/" class="h-link">Advertise With Us</a></li>
+    <li><a href="/work-with-us/" class="h-link">Work With Us</a></li>
+    <li><a href="/contact-us/" class="h-link">Contact Us</a></li>
+    <li><a href="/asktarla/" class="h-link">Site Feedback</a></li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+
+    <hr>
+    <div class="copyright">
+        <p>Copyright © 2025 Tarla Dalal All Rights Reserved</p>
+    </div>
+</footer>
+
+  <div class="search-box py-5 px-5 bg-gray">
+    <div class="container">
+      <div class="row ">
+        <div class="close"><i class="fa fa-close"></i></div>
+        <div class="col-md-6 mx-auto">
+          
+          <form action="/recipesearch/" method='GET'>
+            <div class="input-group">
+              <input type="text" name="query" class="form-control" placeholder="Search Here" required="">
+              <button type="submit" class="input-group-text btn btn-main primary-bg fw-semibold font-size-14 text-white search-btn">
+                <i class="fa fa-search"></i> Search
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="mt-4">
+        <div class="row">
+          <div class="col-md-12 d-flex justify-content-between align-items-center mb-3">
+            <div class="">
+              <h4 class="heading"><span class="px-3 primary-bg me-2">Latest</span> Recipes</h4>
+
+            </div>
+          </div>
+        </div>
+        <div class="row recipe-list d-flex flex-wrap">
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/dudhi-soup-lauki-soup-2114r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/31/dudhi_soup.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/dudhi-soup-lauki-soup-2114r">dudhi soup recipe | Indian style bottle gourd soup | healthy lauki soup | creamy doodhi soup |Â</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/sambar-masala--how-to-make-sambhar-masala-1666r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/26/sambar_masala.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/sambar-masala--how-to-make-sambhar-masala-1666r">sambar masala recipe | sambar powder | sambar podi |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/aloo-cheese-frankie-4099r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/26/aloo_cheese_frankie.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/aloo-cheese-frankie-4099r">aloo cheese frankie recipe | potato cheese frankie | cheesy potato Indian wrap |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/buckwheat-khichdi-farali-kutto-khichdi-recipe-vrat-recipe-fasting-recipe-33302r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/26/buckwheat_khichdi.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/buckwheat-khichdi-farali-kutto-khichdi-recipe-vrat-recipe-fasting-recipe-33302r">buckwheat khichdi recipe | kutto khichdi | farali kutto khichdi | healthy kutto khichdi |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/pyaz-wali-bhindi-for-weight-loss-diabetics-heart-5571r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/25/healthy_pyaz_wali_bhindi.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/pyaz-wali-bhindi-for-weight-loss-diabetics-heart-5571r">healthy pyaz wali bhindi | pyaz wali bhindi recipe | okra onion sabzi |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/potato-bhaji-aloo-bhaji-1661r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/25/aloo_bhaji.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/potato-bhaji-aloo-bhaji-1661r">aloo bhaji recipe | aloo bhaji with puri | batatyachi bhaji |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/moong-dal-methi-sabzi-4829r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/25/moong_dal_methi_sabzi.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/moong-dal-methi-sabzi-4829r">moong dal methi sabzi recipe |  methi moong dal ki sabzi | healthy methi leaves with moong dal |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/corn-ki-sabzi-makai-ki-sabzi-37379r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/25/corn_ki_sabzi_poju6jK.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/corn-ki-sabzi-makai-ki-sabzi-37379r">corn ki sabzi recipe | makai ki sabzi | creamy masala corn sabzi | Indian sweet corn sabzi |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/restaurant-style-sambar-sambar-with-sambar-masala-32735r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/24/restaurant_style_sambar.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/restaurant-style-sambar-sambar-with-sambar-masala-32735r">Sambhar ( How To Make Sambhar, South Indian Recipe)</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/sabudana-khichdi-39657r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/24/sabudana_khichdi.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/sabudana-khichdi-39657r">Sabudana Khichdi | Maharashtrian sabudana khichdi | sago khichdi |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/poha-nachni-handvo-22308r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/24/poha_nachni_handvo.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/poha-nachni-handvo-22308r">poha nachni handvo recipe | snacks for hypertension | Indian snack for high blood pressure |</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-4 col-lg-2">
+             <div class="recipe-block brd-radius-5 mb-3">
+                <div class="img-block">
+                  <a href="/milagai-podi-malgapodi-powder-south-indian-gun-powder-recipe-41383r">
+                  
+                  <img src="/media/recipe/thumbnail/2025/03/24/milagai_podi.webp" class="img-fluid" alt="" />
+                   
+                  </a>
+                  </div>
+                <div class="overlay-content">
+                   <div class="details d-flex justify-content-between align-items-center brd-radius-5">
+                      <div>
+                         <h5 class="mb-0 two-line-text"><a href="/milagai-podi-malgapodi-powder-south-indian-gun-powder-recipe-41383r">Milagai Podi, Malgapodi Powder, Idli Podi, South Indian Gun Powder</a></h5>
+                         <span class=""></span>
+                      </div>
+                   </div>
+                </div>
+             </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <ul class="ct-socials">
+    <li>
+       <a href="#"><i class="fa fa-angle-up"></i></a>
+    </li>
+    
+    <li>
+     
+     
+         <a href="#" id="like-anonymous-link" data-liked="">  <i class="fa fa-heart-o"></i>  </a>
+     
+       
+    </li>
+    
+    <li>
+       <a href="#"><i class="fa fa-search primary searchbar search-show"></i></a>
+    </li>
+ </ul>
+
+
+<amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-6361570058795809">
+</amp-auto-ads>
+  <!-- select data-live-search -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/js/bootstrap-select.min.js"></script>
+  <!-- /select data-live-search -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="/static/frontend/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="/static/frontend/js/jquery.magnific-popup.min.js"></script>
+  <script src="/static/frontend/js/jquery.fancybox.js"></script>
+  <!-- YouTube API Script -->
+    <script src="https://www.youtube.com/iframe_api"></script>
+	<!-- Owl Carousel JS -->
+    <script src="/static/frontend/js/owl.carousel.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            // Initialize Owl Carousel
+			var owl = $('#product_carousel');
+			owl.owlCarousel({
+				items:4,
+				loop:true, 
+				dots:true,
+				nav:false,
+				margin:10,
+				autoplay:true,
+				autoplayTimeout:5000,
+				autoplayHoverPause:true, 
+				responsive:{
+					0:{
+						items:1,
+						nav:false
+					},
+					600:{
+						items:1,
+						nav:false
+					},
+					1000:{
+						items:4,
+						nav:0,
+						loop:false
+					}
+				}
+        });
+        $('.play').on('click',function(){
+            owl.trigger('play.owl.autoplay',[100000])
+        })
+        $('.stop').on('click',function(){
+            owl.trigger('stop.owl.autoplay')
+        })
+
+            // Initialize Magnific Popup
+            $('.popup-youtube').magnificPopup({
+                type: 'inline',
+                midClick: true, // Allow middle click to open in popup
+                callbacks: {
+                    open: function() {
+                        var videoUrl = $(this.currItem.el).attr('href');
+                        var videoId = videoUrl.substr(videoUrl.indexOf('v=') + 2);
+                        var iframe = '<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/' + videoId + '?autoplay=1" frameborder="0" allowfullscreen></iframe></div>';
+                        this.content.html(iframe);
+                    }
+                }
+            });
+        });
+    </script>
+	<script>
+        $(document).ready(function(){
+            // Initialize Owl Carousel
+			var owl = $('#product_carousel_sec');
+			owl.owlCarousel({
+				items:4,
+				loop:true, 
+				dots:true,
+				nav:false,
+				margin:10,
+				autoplay:true,
+				autoplayTimeout:5000,
+				autoplayHoverPause:true, 
+				responsive:{
+					0:{
+						items:1,
+						nav:false
+					},
+					600:{
+						items:1,
+						nav:false
+					},
+					1000:{
+						items:4,
+						nav:0,
+						loop:false
+					}
+				}
+        });
+            // Initialize Magnific Popup
+            $('.popup-youtube').magnificPopup({
+                type: 'iframe',
+                iframe: {
+                    patterns: {
+                        youtube: {
+                            index: 'youtube.com/', 
+                            id: 'v=', 
+                            src: 'https://www.youtube.com/embed/%id%?autoplay=1' 
+                        }
+                    },
+                    srcAction: 'iframe_src'
+                }
+            });
+        });
+    </script>
+  <script type="text/javascript">
+    var q = 0;
+    function swapImage() {
+      if (q == 0) {
+        document.getElementById("swapImage").setAttribute('src', '/static/frontend/img/f-heart.png');
+        q++;
+      }
+      else {
+        document.getElementById("swapImage").setAttribute('src', '/static/frontend/img/e-heart.png');
+        q--;
+      }
+    }
+
+  </script>
+  <script>
+	// if no Webkit browser
+(function(){
+  let isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+  let isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+  let wrapDiv = document.querySelector('.wrap');
+    if (!isChrome && !isSafari) {
+      scrollbarDiv.innerHTML = 'You need Webkit browser to run this code';
+    }
+})();
+  </script>
+  <script>
+
+    $(document).ready(function () {
+      $(".search-show").click(function () {
+        $(".search-box").fadeIn("slow");
+      });
+      $(".close").click(function () {
+        $(".search-box").fadeOut("slow");
+      });
+    });
+  </script>
+
+
+<!-- Swiper JS -->
+    <script src="/static/frontend/js/swiper-bundle.min.js"></script>
+
+    <!-- JavaScript -->
+    <script src="/static/frontend/js/script.js"></script>
+	
+    <script>
+	var swiper = new Swiper(".slide-container", {
+     slidesPerView: 4,
+     spaceBetween: 20,
+     sliderPerGroup: 4,
+     loop: true,
+     centerSlide: "true",
+     fade: "true",
+     grabCursor: "true",
+     pagination: {
+       el: ".swiper-pagination",
+       clickable: true,
+       dynamicBullets: true,
+     },
+     navigation: {
+       nextEl: ".swiper-button-next",
+       prevEl: ".swiper-button-prev",
+     },
+   
+     breakpoints: {
+       0: {
+         slidesPerView: 1,
+       },
+       520: {
+         slidesPerView: 2,
+       },
+       768: {
+         slidesPerView: 3,
+       },
+       1000: {
+         slidesPerView: 4,
+       },
+     },
+   });
+   </script>
+   <script>
+    setTimeout(function () {
+        $('.alert').fadeOut('slow');
+    }, 5000);
+  </script> 
+
+  <script>
+    
+  </script>
+  
+</body>
+
+</html>

@@ -1,9 +1,10 @@
 import React, { useState, useEffect, useRef } from "react";
+import { supabase } from '../supabaseClient';
 import "./Login.css";
 
 function Login({ isOpen, onClose }) {
   const loginRef = useRef(null);
-  const [isLogin, setIsLogin] = useState(true);
+  const [isLogin, setIsLogin] = useState(false);
   const [usePhone, setUsePhone] = useState(false);
   const [showPassword, setShowPassword] = useState(false);
   
@@ -79,62 +80,76 @@ function Login({ isOpen, onClose }) {
   }, [isOpen, isLogin, usePhone]);
 
   // Handle form submission
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     setFormError("");
     setIsLoading(true);
-
-    // Form validation
+  
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     const phoneRegex = /^\d{10}$/;
-    
-    // Simulate network request
-    setTimeout(() => {
+  
+    try {
       if (usePhone) {
         // Phone Number & OTP Authentication
         if (!phone || !phoneRegex.test(phone)) {
           setFormError("Please enter a valid 10-digit phone number");
-          setIsLoading(false);
           return;
         }
         if (!otpSent) {
           setFormError("Please request an OTP first");
-          setIsLoading(false);
           return;
         }
         if (!otp || otp.length !== 6) {
           setFormError("Please enter the 6-digit OTP sent to your phone");
-          setIsLoading(false);
           return;
         }
+  
         console.log("OTP Verified Successfully:", phone);
-        // Success animation
         showSuccessMessage(`Authentication successful!`);
-        setIsLoading(false);
-      } else {
-        // Email & Password Authentication
-        if (!email || !emailRegex.test(email)) {
-          setFormError("Please enter a valid email address");
-          setIsLoading(false);
-          return;
-        }
-        if (!password || password.length < 8) {
-          setFormError("Password must be at least 8 characters long");
-          setIsLoading(false);
-          return;
-        }
-        if (!isLogin && !fullName) {
-          setFormError("Please enter your full name");
-          setIsLoading(false);
-          return;
-        }
-        console.log("Form submitted:", { isLogin, email, password, fullName });
-        // Success animation
-        showSuccessMessage(`${isLogin ? "Login" : "Sign up"} successful!`);
-        setIsLoading(false);
+        onClose();
+        return;
       }
-    }, 1500);
+  
+      // Email & Password Authentication
+      if (!email || !emailRegex.test(email)) {
+        setFormError("Please enter a valid email address");
+        return;
+      }
+      if (!password || password.length < 8) {
+        setFormError("Password must be at least 8 characters long");
+        return;
+      }
+      if (!isLogin && !fullName) {
+        setFormError("Please enter your full name");
+        return;
+      }
+  
+      let result;
+      if (isLogin) {
+        result = await supabase.auth.signInWithPassword({ email, password });
+      } else {
+        result = await supabase.auth.signUp({
+          email,
+          password,
+          options: {
+            data: { full_name: fullName },
+          },
+        });
+      }
+  
+      if (result.error) {
+        setFormError(result.error.message);
+      } else {
+        showSuccessMessage(`${isLogin ? "Login" : "Sign up"} successful!`);
+        onClose();
+      }
+    } catch (err) {
+      setFormError("Something went wrong");
+    } finally {
+      setIsLoading(false);
+    }
   };
+  
 
   // Show success message and close modal
   const showSuccessMessage = (message) => {

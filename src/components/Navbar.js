@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X, User, ShoppingCart } from "lucide-react"; // Assuming lucide-react is installed
 import Login from "../pages/Login";
+import { supabase } from "../supabaseClient"; // Ensure this path is correct
 import "./Navbar.css";
 
 function Navbar() {
@@ -10,6 +11,9 @@ function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const location = useLocation();
   const navbarRef = useRef(null);
+  const [user, setUser] = useState(null);
+  const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const dropdownRef = useRef(null);
 
   const isHomePage = location.pathname === "/";
 
@@ -48,6 +52,26 @@ function Navbar() {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, [isMobileMenuOpen]);
 
+  useEffect(() => {
+  const fetchUser = async () => {
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+    setUser(user);
+  };
+
+  fetchUser();
+
+  const { data: listener } = supabase.auth.onAuthStateChange((_event, session) => {
+    setUser(session?.user || null);
+  });
+
+  return () => {
+    listener.subscription.unsubscribe();
+  };
+}, []);
+
+
   return (
     <>
       {/* Navbar */}
@@ -75,30 +99,43 @@ function Navbar() {
 
           {/* Navigation Links */}
           <nav className={`nav-menu ${isMobileMenuOpen ? "active" : ""}`}>
-            <ul className="nav-links">
-              <li><Link to="/">Home</Link></li>
-              <li><Link to="/menu">Menu</Link></li>
-              <li><Link to="/cart">
-                <span className="icon-link">
-                  <ShoppingCart size={18} />
-                  <span>Cart</span>
-                </span>
-              </Link></li>
-              <li><Link to="/aboutus">About Us</Link></li>
-              <li>
-                <button 
-                  className="nav-link login-link" 
-                  onClick={() => setIsLoginOpen(true)}
-                  aria-label="Open login form"
-                >
-                  <span className="icon-link">
-                    <User size={18} />
-                    <span>Login</span>
-                  </span>
-                </button>
-              </li>
-            </ul>
-          </nav>
+  <ul className="nav-links">
+    <li><Link to="/">Home</Link></li>
+    <li><Link to="/menu">Menu</Link></li>
+    <li><Link to="/cart">
+      <span className="icon-link">
+        <ShoppingCart size={18} />
+        <span>Cart</span>
+      </span>
+    </Link></li>
+    <li><Link to="/aboutus">About Us</Link></li>
+    {user ? (
+  <li>
+    <Link to="/account" className="nav-link icon-link">
+      <User size={18} />
+      <span className="username">
+        {user.user_metadata?.full_name || user.email}
+      </span>
+    </Link>
+  </li>
+) : (
+  <li>
+    <button 
+      className="nav-link login-link" 
+      onClick={() => setIsLoginOpen(true)}
+      aria-label="Open login form"
+    >
+      <span className="icon-link">
+        <User size={18} />
+        <span>Login</span>
+      </span>
+    </button>
+  </li>
+)}
+
+  </ul>
+</nav>
+
         </div>
       </header>
 

@@ -1,0 +1,42 @@
+.account-container {
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 2rem;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: var(--shadow-md, 0 4px 12px rgba(0,0,0,0.1));
+  }
+  
+  .account-container h2 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  .account-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .account-buttons button {
+    padding: 12px 20px;
+    font-size: 1rem;
+    border: none;
+    background: var(--primary-gradient, linear-gradient(135deg, #4F79A4, #2a5483));
+    color: white;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .account-buttons button:hover {
+    background: var(--primary-gradient-hover, linear-gradient(135deg, #2a5483, #1a3c5f));
+  }
+  
+  .account-buttons button:focus {
+    outline: none;
+    box-shadow: var(--focus-ring, 0 0 0 3px rgba(13, 110, 253, 0.25));
+  }
+  
