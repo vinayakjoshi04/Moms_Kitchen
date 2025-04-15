@@ -1,5 +1,9 @@
 import React, { useState, useEffect } from "react";
+import { AuthProvider } from "./AuthProvider";
+import { useAuth } from "./AuthProvider";
 import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
+import "leaflet/dist/leaflet.css";
+import "leaflet-routing-machine/dist/leaflet-routing-machine.css";
 import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Menu from "./pages/Menu";
@@ -8,6 +12,7 @@ import Checkout from "./pages/Checkout";
 import AboutUs from "./pages/AboutUs";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import AccountPage from "./pages/AccountPage";
 import "./App.css";
 
 // Scroll to top on route change
@@ -42,6 +47,7 @@ function UpdateTitle() {
 
 // App content with routing
 function AppContent({ cart, setCart }) {
+  const { user, setUser } = useAuth();
   return (
     <>
       <UpdateTitle /> {/* Title updater component */}
@@ -54,6 +60,11 @@ function AppContent({ cart, setCart }) {
         <Route path="/cart" element={<Cart cart={cart} setCart={setCart} />} />
         <Route path="/aboutus" element={<AboutUs />} />
         <Route path="/checkout" element={<Checkout />} />
+        <Route
+  path="/account"
+  element={<AccountPage user={user} setUser={setUser} />}
+/>
+
       </Routes>
       {/* Footer is always shown */}
       <Footer />
@@ -66,7 +77,9 @@ function App() {
 
   return (
     <Router>
-      <AppContent cart={cart} setCart={setCart} />
+    <AuthProvider>
+    <AppContent cart={cart} setCart={setCart} />
+    </AuthProvider>
     </Router>
   );
 }

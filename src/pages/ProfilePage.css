@@ -1,0 +1,85 @@
+/* ProfilePage.css */
+
+.profile-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 2rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+  }
+  
+  .profile-container h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+  }
+  
+  /* Form styling when in edit mode */
+  .profile-form .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .profile-form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+  }
+  
+  .profile-form input[type="text"],
+  .profile-form input[type="email"] {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
+  .profile-form input[disabled] {
+    background-color: #f5f5f5;
+  }
+  
+  .profile-form .form-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.5rem;
+  }
+  
+  .profile-form button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(90deg, #4F79A4, #2a5483);
+    color: #fff;
+    transition: background 0.3s ease;
+  }
+  
+  .profile-form button:hover {
+    background: linear-gradient(90deg, #2a5483, #1a3c5f);
+  }
+  
+  /* Display mode styling */
+  .profile-info p {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .profile-info button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(90deg, #4F79A4, #2a5483);
+    color: #fff;
+    transition: background 0.3s ease;
+  }
+  
+  .profile-info button:hover {
+    background: linear-gradient(90deg, #2a5483, #1a3c5f);
+  }
+  

@@ -1,0 +1,69 @@
+/* Orders.css */
+
+.orders-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+  }
+  
+  .orders-container h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+  }
+  
+  .order-card {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .order-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .order-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: #2a5483;
+  }
+  
+  .order-card p {
+    font-size: 0.95rem;
+    margin: 0.25rem 0;
+  }
+  
+  .order-items {
+    margin-top: 1rem;
+    padding-left: 1rem;
+  }
+  
+  .order-items h4 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #2a5483;
+  }
+  
+  .order-items ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .order-items li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #eee;
+    font-size: 0.9rem;
+  }
+  
+  .order-items li:last-child {
+    border-bottom: none;
+  }
+  

@@ -311,6 +311,81 @@
       right: -100%;
     }
   }
+
+  .user-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .username {
+    margin-left: 6px;
+    font-weight: 500;
+    color: white;
+    white-space: nowrap;
+  }
+  
+  .logout-link {
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.2s ease;
+  }
+  
+  .logout-link:hover {
+    background: white;
+    color: #222;
+  }
+  
+  /* Dropdown styles */
+.user-dropdown {
+  position: relative;
+  cursor: pointer;
+}
+
+.user-dropdown .user-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.user-dropdown .dropdown-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  min-width: 160px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  margin-top: 0.5rem;
+}
+
+.user-dropdown .dropdown-menu li {
+  list-style: none;
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.user-dropdown .dropdown-menu li:hover {
+  background-color: #f3f3f3;
+}
+
+.user-dropdown .dropdown-menu li button {
+  all: unset;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  color: #e53935;
+}
+
   
   /* Animation for mobile menu items */
   @media (max-width: 768px) {

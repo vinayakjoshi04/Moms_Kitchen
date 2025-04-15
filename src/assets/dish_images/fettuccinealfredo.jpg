@@ -1,0 +1,2751 @@
+<!DOCTYPE html>
+<html lang="it-IT" >
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- WP_HEAD() START -->
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900|Poppins:100,200,300,400,500,600,700,800,900|Jost:100,200,300,400,500,600,700,800,900|Lato:100,200,300,400,500,600,700,800,900|eb-garamond-italic:100,200,300,400,500,600,700,800,900|EB+Garamond:100,200,300,400,500,600,700,800,900" >
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900|Poppins:100,200,300,400,500,600,700,800,900|Jost:100,200,300,400,500,600,700,800,900|Lato:100,200,300,400,500,600,700,800,900|eb-garamond-italic:100,200,300,400,500,600,700,800,900|EB+Garamond:100,200,300,400,500,600,700,800,900">
+<script> var ajaxurl = 'https://fettuccinealfredo.com/wp-admin/admin-ajax.php'; </script><meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<title>Pagina non trovata - Fettuccine Alfredo</title>
+<link rel="alternate" type="application/rss+xml" title="Fettuccine Alfredo &raquo; Feed" href="https://fettuccinealfredo.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fettuccine Alfredo &raquo; Feed dei commenti" href="https://fettuccinealfredo.com/comments/feed/" />
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--base: #f9f9f9;--wp--preset--color--base-2: #ffffff;--wp--preset--color--contrast: #111111;--wp--preset--color--contrast-2: #636363;--wp--preset--color--contrast-3: #A4A4A4;--wp--preset--color--accent: #cfcabe;--wp--preset--color--accent-2: #c2a990;--wp--preset--color--accent-3: #d8613c;--wp--preset--color--accent-4: #b1c5a4;--wp--preset--color--accent-5: #b5bdbc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--gradient-1: linear-gradient(to bottom, #cfcabe 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-2: linear-gradient(to bottom, #C2A990 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-3: linear-gradient(to bottom, #D8613C 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-4: linear-gradient(to bottom, #B1C5A4 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-5: linear-gradient(to bottom, #B5BDBC 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-6: linear-gradient(to bottom, #A4A4A4 0%, #F9F9F9 100%);--wp--preset--gradient--gradient-7: linear-gradient(to bottom, #cfcabe 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-8: linear-gradient(to bottom, #C2A990 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-9: linear-gradient(to bottom, #D8613C 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-10: linear-gradient(to bottom, #B1C5A4 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-11: linear-gradient(to bottom, #B5BDBC 50%, #F9F9F9 50%);--wp--preset--gradient--gradient-12: linear-gradient(to bottom, #A4A4A4 50%, #F9F9F9 50%);--wp--preset--font-size--small: 0.9rem;--wp--preset--font-size--medium: 1.05rem;--wp--preset--font-size--large: clamp(1.39rem, 1.39rem + ((1vw - 0.2rem) * 0.767), 1.85rem);--wp--preset--font-size--x-large: clamp(1.85rem, 1.85rem + ((1vw - 0.2rem) * 1.083), 2.5rem);--wp--preset--font-size--xx-large: clamp(2.5rem, 2.5rem + ((1vw - 0.2rem) * 1.283), 3.27rem);--wp--preset--font-family--body: "Inter", sans-serif;--wp--preset--font-family--heading: Cardo;--wp--preset--font-family--system-sans-serif: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;--wp--preset--font-family--system-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;--wp--preset--spacing--20: min(1.5rem, 2vw);--wp--preset--spacing--30: min(2.5rem, 3vw);--wp--preset--spacing--40: min(4rem, 5vw);--wp--preset--spacing--50: min(6.5rem, 8vw);--wp--preset--spacing--60: min(10.5rem, 13vw);--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--10: 1rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 1.2rem;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 1.2rem;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 1.2rem;}:root :where(.is-layout-grid){gap: 1.2rem;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}body .trp-language-switcher {
+  height: auto ;
+  width: auto;
+}
+body .trp-language-switcher:hover .trp-ls-shortcode-language,
+body .trp-language-switcher:focus .trp-ls-shortcode-language {
+  position: relative !important;
+  display: flex !important;
+  padding-bottom: 3px;
+  padding-left: 13px;
+  padding-right: 20px;
+  padding-top: 4px;
+}
+body .trp-language-switcher > div > a:hover {
+  background: transparent;
+  border-radius: 0;
+}
+body .trp-language-switcher .trp-ls-shortcode-current-language {
+  display: none;
+}
+body .trp-language-switcher .trp-ls-shortcode-language {
+  display: flex !important;
+  height: auto;
+  width: auto !important;
+  visibility: visible;
+  background: transparent;
+  color: white;
+  border: 0;
+}
+body .trp-language-switcher .trp-ls-shortcode-language a {
+  color: white;
+}
+body .trp-language-switcher .trp-ls-shortcode-language a.trp-ls-shortcode-disabled-language {
+  color: #D3B159;
+}
+@media screen and (min-width: 992px) {
+  body .hide-pc {
+    display: none;
+  }
+}
+@media screen and (max-width: 991px) {
+  body .hide-cell {
+    display: none;
+  }
+}
+.section-top-bar .menu-top a {
+  transition: all 300ms ;
+}
+.section-top-bar .menu-top a:before {
+  content: '';
+  display: block;
+  transition: all 300ms ;
+  width: 0;
+  position: absolute;
+  background: #D3B159;
+}
+.section-top-bar .menu-top a:hover {
+  color: #D3B159 !important;
+}
+.section-top-bar .menu-top a:hover:before {
+  width: calc(100% - 40px);
+  height: 1px;
+  bottom: 16px;
+  left: 20px;
+}
+.section-top-bar .menu-top .current-menu-item a {
+  position: relative;
+  color: #D3B159 !important;
+}
+.section-top-bar .menu-top .current-menu-item a:before {
+  width: calc(100% - 40px);
+  height: 1px;
+  bottom: 16px;
+  left: 20px;
+}
+.section-top-bar .menu-burger .current-menu-item a:before,
+.section-top-bar .menu-burger .menu-item a:before {
+  left: 5px;
+  bottom: 9px;
+}
+.section-top-bar .box-lato-menu .oxy-nav-menu-list {
+  align-items: center;
+}
+@media screen and (min-width: 1304px) {
+  .section-top-bar .box-lato-menu .oxy-nav-menu-list li a {
+    white-space: nowrap;
+  }
+}
+.slider-top .oxygen-unslider-container {
+  padding-bottom: 30px;
+}
+.slider-top .unslider-nav ol li {
+  background-color: #E3E3E3;
+  border-color: #E3E3E3 !important;
+  box-shadow: none;
+}
+.slider-top .unslider-nav ol li.unslider-active {
+  background-color: #0C3451 !important;
+  border-color: #0C3451 !important;
+}
+@media screen and (max-width: 991px) {
+  body #_social_icons-172-12.oxy-social-icons a svg {
+    width: 1em;
+    height: 1em;
+  }
+}
+.toggle-7741 .oxy-expand-collapse-icon {
+  background-image: url(/wp-content/uploads/2024/10/menu-burger.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.toggle-7741 .oxy-expand-collapse-icon:after,
+.toggle-7741 .oxy-expand-collapse-icon:before {
+  display: none;
+}
+@media screen and (min-width: 992px) {
+  .toggle-7741 {
+    position: absolute;
+    right: 0;
+  }
+}
+@media screen and (max-width: 991px) {
+  .toggle-7741 {
+    width: 30px;
+    position: absolute;
+    right: 20px;
+  }
+  .toggle-7741 .oxy-expand-collapse-icon {
+    margin: 0;
+  }
+}
+.toggle-7741-expanded .oxy-expand-collapse-icon {
+  background-image: url(/wp-content/uploads/2024/10/close.png);
+}
+body .atomic-logo {
+  opacity: 1;
+}
+body a:hover {
+  color: white;
+}
+.slider-shop-mobile .oxygen-unslider-container {
+  padding-bottom: 30px;
+}
+.slider-shop-mobile .unslider-nav ol li {
+  background-color: white;
+}
+.slider-shop-mobile .unslider-nav ol li.unslider-active {
+  background-color: #0C3451 !important;
+  border-color: #0C3451 !important;
+}
+body .box-shop-mobile {
+  position: relative;
+  padding: 0;
+}
+body .box-shop-mobile .ct-div-block {
+  z-index: 1;
+}
+body .box-shop-mobile:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 1px solid white;
+  position: absolute;
+  top: 10px;
+  left: 13px;
+  z-index: 0;
+}
+body .ct-new-columns > .wrapper-img,
+.wrapper-img {
+  position: relative;
+  padding: 0;
+}
+body .ct-new-columns > .wrapper-img:before,
+.wrapper-img:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #D3B159;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 0;
+}
+@media screen and (max-width: 991px) {
+  body .ct-new-columns > .wrapper-img:before,
+  .wrapper-img:before {
+    top: 6px;
+    left: 6px;
+  }
+}
+body .ct-new-columns > .wrapper-img.round:before,
+.wrapper-img.round:before {
+  border-radius: 100%;
+}
+body .ct-new-columns > .wrapper-img .ct-image,
+.wrapper-img .ct-image {
+  z-index: 1;
+}
+body .card-gold {
+  position: relative;
+}
+body .card-gold div {
+  z-index: 1;
+}
+body .card-gold:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #D3B159;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 0;
+}
+body .card-gold .wrapper-img:before {
+  border: 1px solid white;
+}
+body .card-primary:before {
+  border: 1px solid #0C3451;
+}
+.inpt-gen {
+  border: 1px solid #D3B159;
+  padding: 14.4px 10.4px;
+  font-size: 18.4px;
+  font-family: 'EB Garamond';
+  font-weight: 500;
+  outline: none;
+  margin: 1px;
+  width: 100%;
+}
+.inpt-gen:active,
+.inpt-gen:focus {
+  border-width: 2px;
+  margin: 0;
+}
+.inpt-gen.wpcf7-not-valid {
+  border-color: #F73636;
+  color: #F73636;
+}
+.inpt-gen.wpcf7-not-valid + .wpcf7-not-valid-tip {
+  font-family: 'Lato';
+  font-size: 12.8px;
+}
+.wpcf7-acceptance .wpcf7-list-item-label:before {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  top: 3px;
+  margin-right: 6px;
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.wpcf7-acceptance input {
+  opacity: 0;
+  position: absolute;
+}
+.wpcf7-acceptance input + .wpcf7-list-item-label:before {
+  background-image: url(/wp-content/uploads/2024/10/uncheck.jpg);
+}
+.wpcf7-acceptance input:checked + .wpcf7-list-item-label:before {
+  background-image: url(/wp-content/uploads/2024/10/checked.jpg);
+}
+body .ct-new-columns .simple-box {
+  padding: 95px 30px 30px ;
+}
+.soluzione {
+  padding: 0!important;
+}
+.footer-alfredo {
+  position: relative;
+}
+.footer-alfredo:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: -10px;
+  left: 0;
+  width: 100%;
+  background: #D3B159;
+  height: 1px;
+}
+.powered a {
+  color: #D3B159;
+}
+body .social-footer-icon {
+  flex-wrap: nowrap ;
+}
+/*************************/
+/*      Pagina shop Prodotti      */
+/*************************/
+.menu-ordina .menu-item:hover a {
+  background: transparent !important;
+  border: 0 !important;
+}
+.menu-ordina .menu-item a {
+  padding: 30px 0 0 0 !important;
+}
+.menu-ordina .menu-item a:hover {
+  color: #0C3451;
+}
+.toggle-8662 {
+  width: 100%;
+  border: 2px solid #D3B159;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+.toggle-8662 .oxy-expand-collapse-icon:before,
+.toggle-8662 .oxy-expand-collapse-icon:after {
+  background-color: #D3B159;
+  height: 2px;
+  width: 16px;
+}
+.toggle-8662 .ct-headline {
+  font-family: 'Jost';
+  font-weight: 400;
+  color: #D3B159;
+  font-size: 21px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+body .lista-categorie-filtro {
+  width: 100%;
+}
+body .lista-categorie-filtro .woocommerce ul.products {
+  flex-direction: column;
+  margin: 0;
+}
+body .lista-categorie-filtro .woocommerce ul.products li.product {
+  padding: 30px 0 0 0;
+  width: 100%;
+}
+body .lista-categorie-filtro .woocommerce ul.products li.product .woocommerce-loop-category__title {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #0C3451;
+  font-family: 'Jost';
+  padding: 0;
+}
+body .lista-categorie-filtro .woocommerce ul.products li.product img {
+  display: none;
+}
+body .lista-categorie-filtro .woocommerce ul.products li.product .count {
+  display: none;
+}
+body .woocommerce-page .wrap-shop .page-title,
+.woocommerce .wrap-shop .page-title {
+  display: none;
+}
+body .woocommerce-page .wrap-shop .woocommerce-result-count,
+.woocommerce .wrap-shop .woocommerce-result-count,
+body .woocommerce-page .wrap-shop .woocommerce-ordering,
+.woocommerce .wrap-shop .woocommerce-ordering {
+  display: none;
+}
+body .woocommerce-page .wrap-shop .ct-section-inner-wrap,
+.woocommerce .wrap-shop .ct-section-inner-wrap {
+  padding-top: 0;
+}
+body .woocommerce-page .wrap-shop ul.products.columns-3 li.product,
+.woocommerce .wrap-shop ul.products.columns-3 li.product {
+  width: calc(33% - 30px);
+}
+@media screen and (max-width: 1359px) {
+  body .woocommerce-page .wrap-shop ul.products.columns-3 li.product,
+  .woocommerce .wrap-shop ul.products.columns-3 li.product {
+    width: calc(50% - 23px);
+  }
+}
+@media screen and (max-width: 767px) {
+  body .woocommerce-page .wrap-shop ul.products.columns-3 li.product,
+  .woocommerce .wrap-shop ul.products.columns-3 li.product {
+    width: 100%;
+  }
+}
+body .woocommerce-page .wrap-shop a.added_to_cart,
+.woocommerce .wrap-shop a.added_to_cart {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #D3B159;
+  border: 1px solid #D3B159;
+  color: #ffffff;
+  margin: 0 20px 20px 20px;
+}
+@media screen and (max-width: 991px) {
+  body .woocommerce-page .wrap-shop a.added_to_cart,
+  .woocommerce .wrap-shop a.added_to_cart {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+body .woocommerce-page .wrap-shop a.added_to_cart:hover,
+.woocommerce .wrap-shop a.added_to_cart:hover {
+  border-top-color: #D3B159;
+  border-right-color: #D3B159;
+  border-bottom-color: #D3B159;
+  border-left-color: #D3B159;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+body .woocommerce-page .style-products ul.products,
+.woocommerce .style-products ul.products,
+body .woocommerce-page .cross-sells ul.products,
+.woocommerce .cross-sells ul.products {
+  column-gap: 45px;
+  margin: 0;
+}
+body .woocommerce-page .style-products ul.products li.product,
+.woocommerce .style-products ul.products li.product,
+body .woocommerce-page .cross-sells ul.products li.product,
+.woocommerce .cross-sells ul.products li.product {
+  border: 1px solid #D3B159;
+  position: relative;
+  margin-bottom: 90px;
+  padding: 0;
+}
+body .woocommerce-page .style-products ul.products li.product.product-type-gift-card .price,
+.woocommerce .style-products ul.products li.product.product-type-gift-card .price,
+body .woocommerce-page .cross-sells ul.products li.product.product-type-gift-card .price,
+.woocommerce .cross-sells ul.products li.product.product-type-gift-card .price {
+  margin-bottom: 8px;
+  font-size: 0;
+}
+body .woocommerce-page .style-products ul.products li.product.product-type-gift-card .price .amount,
+.woocommerce .style-products ul.products li.product.product-type-gift-card .price .amount,
+body .woocommerce-page .cross-sells ul.products li.product.product-type-gift-card .price .amount,
+.woocommerce .cross-sells ul.products li.product.product-type-gift-card .price .amount {
+  display: flex;
+}
+body .woocommerce-page .style-products ul.products li.product.product-type-gift-card .price > span:nth-child(2):before,
+.woocommerce .style-products ul.products li.product.product-type-gift-card .price > span:nth-child(2):before,
+body .woocommerce-page .cross-sells ul.products li.product.product-type-gift-card .price > span:nth-child(2):before,
+.woocommerce .cross-sells ul.products li.product.product-type-gift-card .price > span:nth-child(2):before {
+  content: '-';
+  display: inline-block;
+  color: black;
+  position: relative;
+  right: 6px;
+}
+body .woocommerce-page .style-products ul.products li.product .woocommerce-LoopProduct-link,
+.woocommerce .style-products ul.products li.product .woocommerce-LoopProduct-link,
+body .woocommerce-page .cross-sells ul.products li.product .woocommerce-LoopProduct-link,
+.woocommerce .cross-sells ul.products li.product .woocommerce-LoopProduct-link {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+body .woocommerce-page .style-products ul.products li.product:before,
+.woocommerce .style-products ul.products li.product:before,
+body .woocommerce-page .cross-sells ul.products li.product:before,
+.woocommerce .cross-sells ul.products li.product:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #D3B159;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 0;
+}
+body .woocommerce-page .style-products ul.products li.product:after,
+.woocommerce .style-products ul.products li.product:after,
+body .woocommerce-page .cross-sells ul.products li.product:after,
+.woocommerce .cross-sells ul.products li.product:after {
+  content: '';
+  display: block;
+  height: 100%;
+  width: 100%;
+  background: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+body .woocommerce-page .style-products ul.products li.product > *,
+.woocommerce .style-products ul.products li.product > *,
+body .woocommerce-page .cross-sells ul.products li.product > *,
+.woocommerce .cross-sells ul.products li.product > * {
+  z-index: 2;
+}
+body .woocommerce-page .style-products ul.products li.product .button,
+.woocommerce .style-products ul.products li.product .button,
+body .woocommerce-page .cross-sells ul.products li.product .button,
+.woocommerce .cross-sells ul.products li.product .button {
+  margin-top: 0;
+  font-family: 'Lato';
+  background: #0C3451;
+  font-size: 16px;
+  border-radius: 0;
+  border-color: #0C3451;
+  padding: 12px 5px;
+  letter-spacing: 2px;
+}
+@media screen and (max-width: 991px) {
+  body .woocommerce-page .style-products ul.products li.product .button,
+  .woocommerce .style-products ul.products li.product .button,
+  body .woocommerce-page .cross-sells ul.products li.product .button,
+  .woocommerce .cross-sells ul.products li.product .button {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+body .woocommerce-page .style-products ul.products li.product .button:hover,
+.woocommerce .style-products ul.products li.product .button:hover,
+body .woocommerce-page .cross-sells ul.products li.product .button:hover,
+.woocommerce .cross-sells ul.products li.product .button:hover {
+  background: white;
+  color: #D3B159;
+}
+body .woocommerce-page .style-products ul.products .woocommerce-loop-product__title,
+.woocommerce .style-products ul.products .woocommerce-loop-product__title,
+body .woocommerce-page .cross-sells ul.products .woocommerce-loop-product__title,
+.woocommerce .cross-sells ul.products .woocommerce-loop-product__title {
+  padding: 0 20px !important;
+  color: #D3B159 !important;
+  letter-spacing: 4px;
+  font-family: 'Jost' !important;
+  text-transform: uppercase;
+  font-size: 28px !important;
+  line-height: 30px;
+}
+@media screen and (max-width: 1359px) {
+  body .woocommerce-page .style-products ul.products .woocommerce-loop-product__title,
+  .woocommerce .style-products ul.products .woocommerce-loop-product__title,
+  body .woocommerce-page .cross-sells ul.products .woocommerce-loop-product__title,
+  .woocommerce .cross-sells ul.products .woocommerce-loop-product__title {
+    font-size: 25px !important;
+  }
+}
+@media screen and (max-width: 991px) {
+  body .woocommerce-page .style-products ul.products .woocommerce-loop-product__title,
+  .woocommerce .style-products ul.products .woocommerce-loop-product__title,
+  body .woocommerce-page .cross-sells ul.products .woocommerce-loop-product__title,
+  .woocommerce .cross-sells ul.products .woocommerce-loop-product__title {
+    font-size: 20px !important;
+  }
+}
+body .woocommerce-page .style-products ul.products .category-p,
+.woocommerce .style-products ul.products .category-p,
+body .woocommerce-page .cross-sells ul.products .category-p,
+.woocommerce .cross-sells ul.products .category-p {
+  padding: 0 20px;
+  font-family: 'EB Garamond';
+  font-size: 18.4px;
+  font-weight: 600;
+  color: #0C3451;
+  flex-grow: 1;
+}
+body .woocommerce-page .style-products ul.products .category-p:hover,
+.woocommerce .style-products ul.products .category-p:hover,
+body .woocommerce-page .cross-sells ul.products .category-p:hover,
+.woocommerce .cross-sells ul.products .category-p:hover {
+  color: #0C3451;
+}
+body .woocommerce-page .style-products ul.products .price,
+.woocommerce .style-products ul.products .price,
+body .woocommerce-page .cross-sells ul.products .price,
+.woocommerce .cross-sells ul.products .price {
+  padding: 20px 20px 0 20px;
+  display: flex !important;
+  align-items: center;
+}
+body .woocommerce-page .style-products ul.products .woocommerce-Price-amount,
+.woocommerce .style-products ul.products .woocommerce-Price-amount,
+body .woocommerce-page .cross-sells ul.products .woocommerce-Price-amount,
+.woocommerce .cross-sells ul.products .woocommerce-Price-amount {
+  padding: 0 5px;
+}
+body .woocommerce-page .style-products ul.products .add_to_cart_button,
+.woocommerce .style-products ul.products .add_to_cart_button,
+body .woocommerce-page .cross-sells ul.products .add_to_cart_button,
+.woocommerce .cross-sells ul.products .add_to_cart_button,
+body .woocommerce-page .style-products ul.products .button.product_type_gift-card,
+.woocommerce .style-products ul.products .button.product_type_gift-card,
+body .woocommerce-page .cross-sells ul.products .button.product_type_gift-card,
+.woocommerce .cross-sells ul.products .button.product_type_gift-card {
+  margin: 0 20px 20px 20px;
+}
+body .woocommerce-page .style-products .woocommerce-Price-amount,
+.woocommerce .style-products .woocommerce-Price-amount,
+body .woocommerce-page .cross-sells .woocommerce-Price-amount,
+.woocommerce .cross-sells .woocommerce-Price-amount {
+  font-family: 'Jost';
+  color: #D3B159;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+@media screen and (max-width: 991px) {
+  body .woocommerce-page .style-products .woocommerce-Price-amount,
+  .woocommerce .style-products .woocommerce-Price-amount,
+  body .woocommerce-page .cross-sells .woocommerce-Price-amount,
+  .woocommerce .cross-sells .woocommerce-Price-amount {
+    font-size: 20px;
+  }
+}
+body .woocommerce-page .style-products .woocommerce-Price-amount bdi,
+.woocommerce .style-products .woocommerce-Price-amount bdi,
+body .woocommerce-page .cross-sells .woocommerce-Price-amount bdi,
+.woocommerce .cross-sells .woocommerce-Price-amount bdi {
+  display: flex;
+}
+body .woocommerce-page .style-products .woocommerce-Price-amount bdi .woocommerce-Price-currencySymbol,
+.woocommerce .style-products .woocommerce-Price-amount bdi .woocommerce-Price-currencySymbol,
+body .woocommerce-page .cross-sells .woocommerce-Price-amount bdi .woocommerce-Price-currencySymbol,
+.woocommerce .cross-sells .woocommerce-Price-amount bdi .woocommerce-Price-currencySymbol {
+  order: 1;
+}
+body .woocommerce-page a.button.wc-backward,
+.woocommerce a.button.wc-backward {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #0C3451;
+  border: 1px solid #0C3451;
+  color: #ffffff;
+}
+@media screen and (max-width: 991px) {
+  body .woocommerce-page a.button.wc-backward,
+  .woocommerce a.button.wc-backward {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+body .woocommerce-page a.button.wc-backward:hover,
+.woocommerce a.button.wc-backward:hover {
+  border-top-color: #0C3451;
+  border-right-color: #0C3451;
+  border-bottom-color: #0C3451;
+  border-left-color: #0C3451;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+.onsale {
+  display: none;
+}
+.awl-position-type-on-image {
+  top: -12px !important;
+  left: -13px !important;
+}
+.awl-position-type-on-image .awl-label-text {
+  background: #D3B159 !important;
+  font-size: 18px;
+  padding: 6px 16px !important;
+}
+.awl-position-type-on-image .awl-label-text span {
+  font-family: 'eb-garamond-italic';
+}
+.awl-position-type-before-title {
+  position: initial !important;
+}
+body.woocommerce nav.woocommerce-pagination ul {
+  border: 0;
+}
+body.woocommerce nav.woocommerce-pagination ul li {
+  border: 0;
+}
+body.woocommerce nav.woocommerce-pagination ul li a {
+  color: #D3B159;
+}
+body.woocommerce nav.woocommerce-pagination ul li a:hover {
+  background: transparent;
+}
+body .woocommerce-page .related-prod ul.products li.product,
+.woocommerce .related-prod ul.products li.product {
+  width: calc(25% - 34px);
+}
+@media (max-width: 1360px) {
+  body .woocommerce-page .related-prod ul.products li.product .woocommerce-Price-amount,
+  .woocommerce .related-prod ul.products li.product .woocommerce-Price-amount {
+    font-size: 20px;
+  }
+}
+body .woocommerce-page .single-prod .woocommerce-Price-amount,
+.woocommerce .single-prod .woocommerce-Price-amount {
+  font-family: 'Jost';
+  color: #D3B159;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+@media screen and (max-width: 991px) {
+  body .woocommerce-page .single-prod .woocommerce-Price-amount,
+  .woocommerce .single-prod .woocommerce-Price-amount {
+    font-size: 20px;
+  }
+}
+body .woocommerce-page .single-prod .woocommerce-Price-amount bdi,
+.woocommerce .single-prod .woocommerce-Price-amount bdi {
+  display: flex;
+}
+body .woocommerce-page .single-prod .woocommerce-Price-amount bdi .woocommerce-Price-currencySymbol,
+.woocommerce .single-prod .woocommerce-Price-amount bdi .woocommerce-Price-currencySymbol {
+  order: 1;
+}
+body .woocommerce-page .single-prod .ppcp-messages,
+.woocommerce .single-prod .ppcp-messages {
+  display: none !important;
+}
+body .woocommerce-page .immagini-prodotto,
+.woocommerce .immagini-prodotto {
+  position: relative;
+}
+body .woocommerce-page .immagini-prodotto:after,
+.woocommerce .immagini-prodotto:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 500px;
+  z-index: 2;
+  top: 0;
+  left: 0;
+}
+body .woocommerce-page .immagini-prodotto .woocommerce-product-gallery__trigger,
+.woocommerce .immagini-prodotto .woocommerce-product-gallery__trigger {
+  display: none;
+}
+body .woocommerce-page .immagini-prodotto .flex-viewport,
+.woocommerce .immagini-prodotto .flex-viewport {
+  max-height: 500px;
+  border: 0;
+}
+body .woocommerce-page .immagini-prodotto .flex-viewport .woocommerce-product-gallery__wrapper,
+.woocommerce .immagini-prodotto .flex-viewport .woocommerce-product-gallery__wrapper {
+  max-height: 500px;
+}
+body .woocommerce-page .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image,
+.woocommerce .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image {
+  height: 500px;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+}
+body .woocommerce-page .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image a,
+.woocommerce .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image a {
+  display: inline-block;
+  max-height: 500px;
+  max-width: calc(100% - 10px);
+  width: calc(100% - 20px);
+  position: relative;
+}
+body .woocommerce-page .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image a:before,
+.woocommerce .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image a:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #D3B159;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 0;
+}
+body .woocommerce-page .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image a img,
+.woocommerce .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image a img {
+  z-index: 3;
+  position: relative;
+}
+body .woocommerce-page .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image img,
+.woocommerce .immagini-prodotto .flex-viewport .woocommerce-product-gallery__image img {
+  max-height: 485px;
+  height: 485px;
+  object-fit: cover;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+body .woocommerce-page .oxy-product-description,
+.woocommerce .oxy-product-description {
+  font-size: 18px;
+  font-family: 'EB Garamond';
+  color: #0E2322;
+}
+body .woocommerce-page .oxy-product-description p,
+.woocommerce .oxy-product-description p {
+  font-size: 18px;
+  font-family: 'EB Garamond';
+  color: #0E2322;
+}
+body .woocommerce-page .flex-control-nav,
+.woocommerce .flex-control-nav {
+  justify-content: center;
+  margin-top: 20px !important;
+}
+body .woocommerce-page .flex-control-nav li,
+.woocommerce .flex-control-nav li {
+  border: 0 !important;
+  width: 14px !important;
+  height: 14px !important;
+  min-width: 25px !important;
+}
+body .woocommerce-page .flex-control-nav li img,
+.woocommerce .flex-control-nav li img {
+  width: 14px !important;
+  height: 14px !important;
+  background-color: #E3E3E3;
+  padding: 7px  !important;
+  border-radius: 100%;
+}
+body .woocommerce-page .flex-control-nav li img.flex-active,
+.woocommerce .flex-control-nav li img.flex-active {
+  background-color: #0C3451;
+}
+body .woocommerce-page .oxy-woo-element div.product form.cart,
+.woocommerce .oxy-woo-element div.product form.cart {
+  display: block !important;
+}
+body .woocommerce-page div.product form.cart div.quantity,
+.woocommerce div.product form.cart div.quantity {
+  display: block !important;
+  margin-bottom: 50px !important;
+}
+body .woocommerce-page div.product form.cart div.quantity input,
+.woocommerce div.product form.cart div.quantity input {
+  border: 1px solid #D3B159;
+  border-radius: 0 ;
+  width: 128px ;
+  font-family: 'EB Garamond';
+  padding: 15px 10px ;
+  font-size: 18px;
+}
+body .woocommerce-page div.product form.cart div.quantity input:focus,
+.woocommerce div.product form.cart div.quantity input:focus {
+  box-shadow: none;
+}
+table.variations th.label {
+  display: none;
+}
+table.variations .value select {
+  font-family: 'Jost' !important;
+}
+.price-menu .price {
+  display: flex ;
+  align-items: center;
+}
+.price-menu .price .woocommerce-Price-amount {
+  padding: 0 5px ;
+}
+.accordion-prodotto.manuale {
+  width: 100%;
+}
+.accordion-prodotto .ct-code-block {
+  width: 100%;
+}
+.accordion-prodotto details summary {
+  cursor: pointer;
+}
+.accordion-prodotto details summary:before {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  background: url('/wp-content/uploads/2024/11/freccia.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 20px;
+  height: 10px;
+}
+.accordion-prodotto details[open] summary:before {
+  transform: rotate(180deg);
+}
+.accordion-prodotto summary {
+  position: relative;
+  font-size: 20px !important;
+  text-transform: uppercase;
+  font-family: 'Jost';
+  color: #D3B159 !important;
+  letter-spacing: 2px !important;
+  font-weight: normal;
+  border-bottom: 1px solid #D3B159;
+  padding: 30px 0;
+  list-style: none;
+}
+@media screen and (max-width: 991px) {
+  .accordion-prodotto summary {
+    font-size: 15px !important;
+  }
+}
+.accordion-prodotto summary::-webkit-details-marker {
+  display: none;
+}
+.accordion-prodotto p {
+  font-size: 18px;
+  font-family: 'EB Garamond';
+  color: #0E2322;
+}
+.accordion-prodotto h2 {
+  display: none;
+}
+input[name="ywgc-is-digital"] + h3 {
+  display: none;
+}
+.step-appearance {
+  display: none;
+}
+.product-type-gift-card .title-article {
+  display: none;
+}
+.product-type-gift-card .oxy-product-cart-button,
+.product-type-gift-card .oxy-woo-element div.product form.cart {
+  max-width: 100% !important;
+}
+.product-type-gift-card .ywgc-main-form-preview-container {
+  display: none;
+}
+.product-type-gift-card .ywgc-predefined-amount-button.selected_button {
+  background-color: transparent;
+  opacity: 1;
+}
+.product-type-gift-card .ywgc-predefined-amount-button {
+  opacity: 0.5;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.product-type-gift-card.woocommerce div.product p.price {
+  font-size: 0;
+}
+.product-type-gift-card.woocommerce div.product p.price .amount {
+  display: flex;
+}
+.product-type-gift-card.woocommerce div.product p.price > span:nth-child(2):before {
+  content: '-';
+  display: inline-block;
+  color: black;
+  position: relative;
+  right: 6px;
+}
+.product-type-gift-card h3 {
+  font-family: 'Jost';
+  font-size: 20px !important;
+  font-weight: 400;
+  color: #0C3451;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+  margin-top: 20px !important;
+}
+@media screen and (max-width: 991px) {
+  .product-type-gift-card h3 {
+    font-size: 15px !important;
+  }
+}
+.product-type-gift-card .gift-cards-list {
+  margin-bottom: 10px;
+}
+.product-type-gift-card .gift-cards-list h3 {
+  margin-bottom: 10px;
+}
+.product-type-gift-card .gift-cards-list ~ h3 {
+  display: none;
+}
+.product-type-gift-card .ywgc-message {
+  display: none !important;
+}
+.product-type-gift-card.virtual .ywgc-message {
+  display: block !important;
+}
+.product-type-gift-card .gift-card-content-editor h5 {
+  font-family: 'Jost';
+  font-size: 20px !important;
+  font-weight: 400;
+  color: #0C3451;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+}
+@media screen and (max-width: 991px) {
+  .product-type-gift-card .gift-card-content-editor h5 {
+    font-size: 15px !important;
+  }
+}
+.product-type-gift-card .gift-card-content-editor .ywgc-single-recipient > div,
+.product-type-gift-card .gift-card-content-editor .ywgc-sender-name,
+.product-type-gift-card .gift-card-content-editor .ywgc-message {
+  font-size: 16px;
+  display: flex;
+  margin-top: 10px;
+}
+.product-type-gift-card .gift-card-content-editor .ywgc-single-recipient > div label,
+.product-type-gift-card .gift-card-content-editor .ywgc-sender-name label,
+.product-type-gift-card .gift-card-content-editor .ywgc-message label {
+  color: #2b2c28;
+  flex-grow: 1;
+  font-size: 16px;
+  line-height: initial;
+  text-align: left;
+}
+.product-type-gift-card .gift-card-content-editor .ywgc-single-recipient > div input,
+.product-type-gift-card .gift-card-content-editor .ywgc-sender-name input,
+.product-type-gift-card .gift-card-content-editor .ywgc-message input,
+.product-type-gift-card .gift-card-content-editor .ywgc-single-recipient > div textarea,
+.product-type-gift-card .gift-card-content-editor .ywgc-sender-name textarea,
+.product-type-gift-card .gift-card-content-editor .ywgc-message textarea {
+  border-radius: 0 ;
+}
+.product-type-gift-card .gift-card-content-editor .ywgc-single-recipient > div input:focus,
+.product-type-gift-card .gift-card-content-editor .ywgc-sender-name input:focus,
+.product-type-gift-card .gift-card-content-editor .ywgc-message input:focus,
+.product-type-gift-card .gift-card-content-editor .ywgc-single-recipient > div textarea:focus,
+.product-type-gift-card .gift-card-content-editor .ywgc-sender-name textarea:focus,
+.product-type-gift-card .gift-card-content-editor .ywgc-message textarea:focus {
+  box-shadow: none;
+  border: 1px solid #d3ced2;
+}
+.product-type-gift-card .gift-card-content-editor .ywgc-empty-recipient-note {
+  color: #2b2c28;
+  font-size: 16px;
+  line-height: initial;
+}
+body.woocommerce .widget_shopping_cart .buttons a.checkout.wc-forward,
+body.woocommerce button[type=submit],
+body.woocommerce button[name=woocommerce-form-login__submit],
+body.woocommerce button[name=save_account_details],
+body.woocommerce button[name=save_address],
+body.woocommerce .oxy-woo-element div.product form.cart button.button.alt,
+body.woocommerce .oxy-product-cart-button button.button.alt,
+body.woocommerce div.product form.cart .button {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #0C3451;
+  border: 1px solid #0C3451;
+  color: #ffffff;
+}
+@media screen and (max-width: 991px) {
+  body.woocommerce .widget_shopping_cart .buttons a.checkout.wc-forward,
+  body.woocommerce button[type=submit],
+  body.woocommerce button[name=woocommerce-form-login__submit],
+  body.woocommerce button[name=save_account_details],
+  body.woocommerce button[name=save_address],
+  body.woocommerce .oxy-woo-element div.product form.cart button.button.alt,
+  body.woocommerce .oxy-product-cart-button button.button.alt,
+  body.woocommerce div.product form.cart .button {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+body.woocommerce .widget_shopping_cart .buttons a.checkout.wc-forward:hover,
+body.woocommerce button[type=submit]:hover,
+body.woocommerce button[name=woocommerce-form-login__submit]:hover,
+body.woocommerce button[name=save_account_details]:hover,
+body.woocommerce button[name=save_address]:hover,
+body.woocommerce .oxy-woo-element div.product form.cart button.button.alt:hover,
+body.woocommerce .oxy-product-cart-button button.button.alt:hover,
+body.woocommerce div.product form.cart .button:hover {
+  border-top-color: #0C3451;
+  border-right-color: #0C3451;
+  border-bottom-color: #0C3451;
+  border-left-color: #0C3451;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+.shipping-calculator-form p button[type=submit] {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #D3B159;
+  border: 1px solid #D3B159;
+  color: #ffffff;
+}
+@media screen and (max-width: 991px) {
+  .shipping-calculator-form p button[type=submit] {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+.shipping-calculator-form p button[type=submit]:hover {
+  border-top-color: #D3B159;
+  border-right-color: #D3B159;
+  border-bottom-color: #D3B159;
+  border-left-color: #D3B159;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+.shipping-calculator-button {
+  font-size: 18px !important;
+}
+.tag-prodotto {
+  margin-top: 16px;
+  margin-bottom: 23px;
+}
+.tag-prodotto .product-tags {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+.tag-prodotto .alfredo-tag {
+  font-family: 'Lato';
+  font-size: 12.8px;
+  background: #F7F7F7;
+  min-width: 130px;
+  color: #0C3451;
+  text-transform: uppercase;
+  padding: 10px 12px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.tab-prodotto .woocommerce-Tabs-panel h2 {
+  display: none;
+}
+.tab-prodotto .woocommerce-Tabs-panel p {
+  font-family: 'EB Garamond';
+  font-size: 20px;
+}
+.tab-prodotto .wc-tabs li a {
+  font-size: 20px !important;
+  text-transform: uppercase;
+  font-family: 'Jost';
+  color: #D3B159 !important;
+  letter-spacing: 2px !important;
+  font-weight: normal;
+}
+@media screen and (max-width: 991px) {
+  .tab-prodotto .wc-tabs li a {
+    font-size: 15px !important;
+  }
+}
+.oxy-related-products h2 {
+  font-size: 20px !important;
+  text-transform: uppercase;
+  font-family: 'Jost';
+  color: #D3B159 !important;
+  letter-spacing: 2px !important;
+  font-weight: normal;
+}
+@media screen and (max-width: 991px) {
+  .oxy-related-products h2 {
+    font-size: 15px !important;
+  }
+}
+.oxy-related-products .related {
+  margin-top: 3rem !important;
+}
+body .oxy-woo-cart .shop_table {
+  border-top: 3px solid #D3B159 !important;
+}
+body .oxy-woo-cart .shop_table th {
+  padding-top: 24.8px !important;
+  padding-bottom: 24.8px !important;
+}
+body .oxy-woo-cart table.cart {
+  border: 0;
+  margin-bottom: 0;
+}
+body .oxy-woo-cart table.cart tr {
+  border-top: 1px solid #D3B159;
+}
+body .oxy-woo-cart table.cart tr:last-child td.actions {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+body .oxy-woo-cart table.cart .product-thumbnail {
+  width: 22%;
+}
+body .oxy-woo-cart table.cart img {
+  min-height: 90px;
+}
+body .oxy-woo-cart table.cart .input-text.qty {
+  border: 1px solid #D3B159;
+  border-radius: 0 ;
+  width: 128px ;
+  font-family: 'EB Garamond';
+  padding: 15px 10px ;
+  font-size: 18px;
+}
+body .oxy-woo-cart table.cart .input-text.qty:focus {
+  box-shadow: none;
+}
+body .oxy-woo-cart .product-remove a.remove {
+  color: #D3B159 !important;
+}
+body .oxy-woo-cart .actions .coupon {
+  display: none !important;
+}
+body .oxy-woo-cart .actions .coupon .input-text + .button {
+  width: auto !important;
+  height: 50px;
+}
+.ywgc_enter_code {
+  display: none !important;
+}
+.wp-block-woocommerce-checkout-order-summary-coupon-form-block {
+  display: none !important;
+}
+.wc-block-components-sidebar .ppcp-messages {
+  display: none !important;
+}
+body .is-large .wc-block-checkout__sidebar {
+  top: 142px;
+}
+.woocommerce .actions button.button[type='submit'] {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #0C3451;
+  border: 1px solid #0C3451;
+  color: #ffffff;
+}
+@media screen and (max-width: 991px) {
+  .woocommerce .actions button.button[type='submit'] {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+.woocommerce .actions button.button[type='submit']:hover {
+  border-top-color: #0C3451;
+  border-right-color: #0C3451;
+  border-bottom-color: #0C3451;
+  border-left-color: #0C3451;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+.woocommerce .actions button.button[type='submit']:disabled {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #D6D6D6;
+  color: #707070;
+}
+@media screen and (max-width: 991px) {
+  .woocommerce .actions button.button[type='submit']:disabled {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+.woocommerce .actions button.button[type='submit']:disabled:hover {
+  background-color: #D6D6D6;
+}
+body .woocommerce .cart-collaterals,
+body.woocommerce-page .cart-collaterals {
+  display: flex;
+  flex-direction: column;
+}
+body .woocommerce .cart-collaterals .cart_totals,
+body.woocommerce-page .cart-collaterals .cart_totals {
+  width: 100%;
+  float: none;
+}
+body .woocommerce .cart-collaterals .cart_totals > h2,
+body.woocommerce-page .cart-collaterals .cart_totals > h2 {
+  display: none;
+}
+body .woocommerce .cart-collaterals .cart_totals .shop_table,
+body.woocommerce-page .cart-collaterals .cart_totals .shop_table {
+  border: 0;
+}
+body .woocommerce .cart-collaterals .cart_totals .shop_table tr,
+body.woocommerce-page .cart-collaterals .cart_totals .shop_table tr {
+  border-top-color: #D3B159;
+}
+body .woocommerce .cart-collaterals .cart_totals .cart-subtotal th,
+body.woocommerce-page .cart-collaterals .cart_totals .cart-subtotal th,
+body .woocommerce .cart-collaterals .cart_totals .order-total th,
+body.woocommerce-page .cart-collaterals .cart_totals .order-total th {
+  width: 77%;
+  text-align: right;
+}
+body .woocommerce .cart-collaterals .cart_totals .cart-subtotal td,
+body.woocommerce-page .cart-collaterals .cart_totals .cart-subtotal td,
+body .woocommerce .cart-collaterals .cart_totals .order-total td,
+body.woocommerce-page .cart-collaterals .cart_totals .order-total td {
+  align-content: center;
+  text-align: right;
+}
+body .woocommerce .cart-collaterals .cart_totals .cart-subtotal td .amount,
+body.woocommerce-page .cart-collaterals .cart_totals .cart-subtotal td .amount,
+body .woocommerce .cart-collaterals .cart_totals .order-total td .amount,
+body.woocommerce-page .cart-collaterals .cart_totals .order-total td .amount {
+  color: #0C3451;
+}
+body .woocommerce .cart-collaterals .cart_totals .wc-proceed-to-checkout,
+body.woocommerce-page .cart-collaterals .cart_totals .wc-proceed-to-checkout {
+  display: block;
+  text-align: right;
+}
+body .woocommerce .cart-collaterals .cart_totals .wc-proceed-to-checkout a.button,
+body.woocommerce-page .cart-collaterals .cart_totals .wc-proceed-to-checkout a.button {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #D3B159;
+  border: 1px solid #D3B159;
+  color: #ffffff;
+  display: inline-block;
+}
+@media screen and (max-width: 991px) {
+  body .woocommerce .cart-collaterals .cart_totals .wc-proceed-to-checkout a.button,
+  body.woocommerce-page .cart-collaterals .cart_totals .wc-proceed-to-checkout a.button {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+body .woocommerce .cart-collaterals .cart_totals .wc-proceed-to-checkout a.button:hover,
+body.woocommerce-page .cart-collaterals .cart_totals .wc-proceed-to-checkout a.button:hover {
+  border-top-color: #D3B159;
+  border-right-color: #D3B159;
+  border-bottom-color: #D3B159;
+  border-left-color: #D3B159;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+body .woocommerce .cart-collaterals .cross-sells,
+body.woocommerce-page .cart-collaterals .cross-sells {
+  order: 2;
+  width: 100%;
+  margin-top: 100px;
+}
+body .woocommerce .cart-collaterals .cross-sells h2,
+body.woocommerce-page .cart-collaterals .cross-sells h2 {
+  font-size: 20px !important;
+  text-transform: uppercase;
+  font-family: 'Jost';
+  color: #D3B159 !important;
+  letter-spacing: 2px !important;
+  font-weight: normal;
+}
+@media screen and (max-width: 991px) {
+  body .woocommerce .cart-collaterals .cross-sells h2,
+  body.woocommerce-page .cart-collaterals .cross-sells h2 {
+    font-size: 15px !important;
+  }
+}
+body .woocommerce .cart-collaterals .cross-sells ul.products,
+body.woocommerce-page .cart-collaterals .cross-sells ul.products {
+  column-gap: 45px;
+  margin: 0;
+}
+body .woocommerce .cart-collaterals .cross-sells ul.products li,
+body.woocommerce-page .cart-collaterals .cross-sells ul.products li {
+  width: calc(25% - 34px);
+}
+@media screen and (max-width: 1359px) {
+  body .woocommerce .cart-collaterals .cross-sells ul.products li,
+  body.woocommerce-page .cart-collaterals .cross-sells ul.products li {
+    width: calc(50% - 23px);
+  }
+}
+.wc-block-components-form.wc-block-checkout__form .wc-block-components-title {
+  font-size: 20px !important;
+  text-transform: uppercase;
+  font-family: 'Jost';
+  color: #D3B159 !important;
+  letter-spacing: 2px !important;
+  font-weight: normal;
+}
+@media screen and (max-width: 991px) {
+  .wc-block-components-form.wc-block-checkout__form .wc-block-components-title {
+    font-size: 15px !important;
+  }
+}
+.wc-block-components-form.wc-block-checkout__form .wc-block-components-checkout-step__description {
+  font-size: 18px;
+  font-family: 'EB Garamond';
+  color: #0E2322;
+}
+body form {
+  font-family: 'EB Garamond';
+}
+body .wc-block-components-form .wc-block-components-text-input label,
+body .wc-block-components-text-input label {
+  left: 15px;
+  font-size: 18.4px;
+  font-family: 'EB Garamond';
+}
+body .wc-block-components-form .wc-block-components-text-input.is-active label,
+body .wc-block-components-text-input.is-active label {
+  display: none;
+}
+body .wc-block-components-form .wc-block-components-text-input input[type=email],
+body .wc-block-components-text-input input[type=email],
+body .wc-block-components-form .wc-block-components-text-input input[type=number],
+body .wc-block-components-text-input input[type=number],
+body .wc-block-components-form .wc-block-components-text-input input[type=password],
+body .wc-block-components-text-input input[type=password],
+body .wc-block-components-form .wc-block-components-text-input input[type=tel],
+body .wc-block-components-text-input input[type=tel],
+body .wc-block-components-form .wc-block-components-text-input input[type=text],
+body .wc-block-components-text-input input[type=text],
+body .wc-block-components-form .wc-block-components-text-input input[type=url],
+body .wc-block-components-text-input input[type=url] {
+  border: 1px solid #D3B159;
+  border-radius: 0;
+  padding: 14.4px 10.4px !important;
+  font-family: 'EB Garamond';
+  font-weight: 500;
+  outline: none;
+  line-height: 1em;
+  margin: 1px;
+  font-size: 18.4px;
+}
+body .wc-block-components-form .wc-block-components-text-input input[type=email]:focus,
+body .wc-block-components-text-input input[type=email]:focus,
+body .wc-block-components-form .wc-block-components-text-input input[type=number]:focus,
+body .wc-block-components-text-input input[type=number]:focus,
+body .wc-block-components-form .wc-block-components-text-input input[type=password]:focus,
+body .wc-block-components-text-input input[type=password]:focus,
+body .wc-block-components-form .wc-block-components-text-input input[type=tel]:focus,
+body .wc-block-components-text-input input[type=tel]:focus,
+body .wc-block-components-form .wc-block-components-text-input input[type=text]:focus,
+body .wc-block-components-text-input input[type=text]:focus,
+body .wc-block-components-form .wc-block-components-text-input input[type=url]:focus,
+body .wc-block-components-text-input input[type=url]:focus {
+  box-shadow: none;
+}
+body .wc-blocks-components-select label {
+  display: none;
+}
+body .wc-blocks-components-select .wc-blocks-components-select__select {
+  border: 1px solid #D3B159;
+  border-radius: 0;
+  padding: 14.4px 10.4px !important;
+  font-family: 'EB Garamond';
+  font-weight: 500;
+  outline: none;
+  line-height: 1em;
+  margin: 1px;
+  font-size: 18.4px;
+}
+body .wc-blocks-components-select .wc-blocks-components-select__select:focus {
+  box-shadow: none;
+}
+body .wc-blocks-components-select .wc-blocks-components-select__container {
+  border: 0;
+}
+body .wc-block-components-validation-error {
+  font-family: 'EB Garamond';
+  font-size: 0.9em;
+}
+body .wc-block-components-validation-error svg {
+  display: none;
+}
+body .wc-block-checkout__actions_row button {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #0C3451;
+  border: 1px solid #0C3451;
+  color: #ffffff;
+}
+@media screen and (max-width: 991px) {
+  body .wc-block-checkout__actions_row button {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+body .wc-block-checkout__actions_row button:hover {
+  border-top-color: #0C3451;
+  border-right-color: #0C3451;
+  border-bottom-color: #0C3451;
+  border-left-color: #0C3451;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+body .wc-block-checkout__sidebar {
+  font-family: 'EB Garamond';
+}
+body .wc-block-checkout__sidebar .wc-block-components-order-summary .wc-block-components-order-summary__button-text {
+  font-size: 20px !important;
+  text-transform: uppercase;
+  font-family: 'Jost';
+  color: #D3B159 !important;
+  letter-spacing: 2px !important;
+  font-weight: normal;
+}
+@media screen and (max-width: 991px) {
+  body .wc-block-checkout__sidebar .wc-block-components-order-summary .wc-block-components-order-summary__button-text {
+    font-size: 15px !important;
+  }
+}
+body .wc-block-checkout__sidebar .wc-block-components-product-name {
+  font-size: 20px !important;
+  text-transform: uppercase;
+  font-family: 'Jost';
+  color: #D3B159 !important;
+  letter-spacing: 2px !important;
+  font-weight: normal;
+  font-size: 16px !important;
+}
+@media screen and (max-width: 991px) {
+  body .wc-block-checkout__sidebar .wc-block-components-product-name {
+    font-size: 15px !important;
+  }
+}
+body .wc-block-checkout__sidebar .wc-block-components-formatted-money-amount {
+  font-family: 'Jost';
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 2px;
+  font-size: 22px !important;
+  color: #D3B159;
+}
+@media screen and (max-width: 991px) {
+  body .wc-block-checkout__sidebar .wc-block-components-formatted-money-amount {
+    font-size: 20px;
+  }
+}
+body .wc-block-checkout__sidebar .wc-block-components-formatted-money-amount bdi {
+  display: flex;
+}
+body .wc-block-checkout__sidebar .wc-block-components-formatted-money-amount bdi .woocommerce-Price-currencySymbol {
+  order: 1;
+}
+body .wc-block-checkout__sidebar .wc-block-components-order-summary-item__individual-price {
+  font-size: 16px !important;
+  color: #0C3451;
+}
+body .wc-block-checkout__sidebar .wc-block-components-button {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #0C3451;
+  border: 1px solid #0C3451;
+  color: #ffffff;
+}
+@media screen and (max-width: 991px) {
+  body .wc-block-checkout__sidebar .wc-block-components-button {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+body .wc-block-checkout__sidebar .wc-block-components-button:hover {
+  border-top-color: #0C3451;
+  border-right-color: #0C3451;
+  border-bottom-color: #0C3451;
+  border-left-color: #0C3451;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+body .wc-block-checkout__sidebar .wc-block-components-totals-item__label {
+  color: #0C3451;
+  font-family: 'Jost';
+}
+.m-accordion .m-toggle {
+  width: 100%;
+  border-bottom: 1px solid #D3B159;
+  padding-bottom: 3px;
+}
+.m-accordion .m-toggle .oxy-expand-collapse-icon {
+  background-image: url(/wp-content/uploads/2024/11/freccia.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 23px;
+  order: 1;
+}
+.m-accordion .m-toggle .oxy-expand-collapse-icon.oxy-eci-collapsed {
+  transform: rotate(180deg);
+}
+.m-accordion .m-toggle .oxy-expand-collapse-icon:after,
+.m-accordion .m-toggle .oxy-expand-collapse-icon:before {
+  display: none;
+}
+.m-accordion .m-toggle .oxy-toggle-content {
+  flex-grow: 1;
+}
+.m-accordion .m-toggle.toggle-2232-expanded {
+  border-color: transparent;
+}
+.box-blog-articolo .wp-block-image {
+  position: relative;
+  margin: 30px 0;
+}
+.box-blog-articolo .wp-block-image:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #D3B159;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 0;
+}
+.box-blog-articolo .wp-block-image img {
+  z-index: 3;
+  position: relative;
+}
+.ricerca-blog .search-submit {
+  display: none;
+}
+.ricerca-blog label {
+  width: 100%;
+  display: block;
+}
+.ricerca-blog label input {
+  background: url('/wp-content/uploads/2024/12/Raggruppa-97.png');
+  background-repeat: no-repeat;
+  background-position: 17px center;
+  background-size: 18px;
+  padding: 15px 15px 15px 60px;
+  font-family: 'EB Garamond';
+  color: #A8A8A8;
+  width: 100%;
+}
+.ricerca-blog label input:focus-visible {
+  outline: none;
+}
+#_posts_grid-62-10.ultimi-articoli .oxy-posts {
+  display: flex!important;
+  flex-direction: column;
+}
+#_posts_grid-62-10.ultimi-articoli .recenti-post {
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+}
+#_posts_grid-62-10.ultimi-articoli .img-post {
+  width: 80px;
+  height: 80px;
+  min-width: 80px;
+  background-position: center center;
+  background-size: cover;
+}
+#_posts_grid-62-10.ultimi-articoli .info-post {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+#_posts_grid-62-10.ultimi-articoli .title-post {
+  font-family: 'EB Garamond';
+  font-size: 18px ;
+  color: #0C3451;
+}
+#_posts_grid-62-10.ultimi-articoli .data-post {
+  font-family: 'EB Garamond';
+  font-size: 14px;
+  color: #A8A8A8;
+}
+#_posts_grid-62-10.ultimi-articoli .leggi-post {
+  font-family: 'Lato';
+  font-size: 16px;
+  color: #D3B159;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-decoration: underline;
+}
+#_posts_grid-62-10.ultimi-articoli .leggi-post a {
+  color: #D3B159;
+}
+#_posts_grid-62-10.ultimi-articoli .leggi-post a:hover {
+  color: #D3B159;
+}
+#_posts_grid-62-10.ultimi-articoli .leggi-post:hover {
+  color: #D3B159;
+}
+.list-blog-tag {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+.list-blog-tag div.art-tag {
+  min-height: 36px;
+}
+.list-blog-tag div.art-tag a {
+  font-family: 'Lato';
+  font-size: 12.8px;
+  background: #F7F7F7;
+  min-width: 130px;
+  color: #0C3451;
+  text-transform: uppercase;
+  padding: 10px 12px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.nav-articoli {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.nav-articoli .nav-previous a,
+.nav-articoli .nav-next a {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #D3B159;
+  letter-spacing: 2px;
+}
+.nav-articoli .nav-previous a {
+  color: #A8A8A8;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.nav-articoli .nav-previous a .meta-nav {
+  display: none;
+}
+.big-article.ct-new-columns {
+  column-gap: 80px;
+}
+.big-article.ct-new-columns > .ct-div-block {
+  width: calc(50% - 40px);
+  justify-content: center;
+}
+@media screen and (max-width: 991px) {
+  .big-article.ct-new-columns {
+    flex-direction: column;
+  }
+  .big-article.ct-new-columns > .ct-div-block {
+    width: 100%;
+  }
+  .big-article.ct-new-columns > .ct-div-block:first-child {
+    order: 1;
+    justify-content: center;
+  }
+}
+.normal-post {
+  width: 33.33%;
+  padding: 40px 20px;
+}
+.normal-post .wrapper-img {
+  width: 100%;
+}
+.normal-post img {
+  height: 550px;
+  width: 100%;
+  object-fit: cover;
+}
+.oxy-easy-posts-pages {
+  margin-top: 50px;
+}
+.oxy-easy-posts-pages a,
+.oxy-easy-posts-pages span {
+  font-size: 20px !important;
+  text-transform: uppercase;
+  font-family: 'Jost';
+  color: #D3B159 !important;
+  letter-spacing: 2px !important;
+  font-weight: normal;
+}
+@media screen and (max-width: 991px) {
+  .oxy-easy-posts-pages a,
+  .oxy-easy-posts-pages span {
+    font-size: 15px !important;
+  }
+}
+html .woocommerce-page ul.woocommerce-order-overview .woocommerce-order-overview__order {
+  font-family: 'EB Garamond';
+  padding-left: 20px;
+}
+html .oxy-woo-order-tracking form,
+html .woocommerce form.woocommerce-ResetPassword.lost_reset_password,
+html .woocommerce .woocommerce-EditAccountForm,
+html .woocommerce .woocommerce-address-fields,
+html .woocommerce-cart .cart-collaterals .cart_totals table,
+html .woocommerce .col2-set,
+html .woocommerce-form-coupon,
+html .woocommerce #reviews #comments ol.commentlist li .comment-text,
+html ul.woocommerce-order-overview,
+html .woocommerce form.login,
+html .woocommerce form.register,
+html .woocommerce form.checkout_coupon,
+html .woocommerce table.shop_table {
+  border-top: 3px solid #D3B159;
+}
+html .order_details {
+  font-family: 'EB Garamond';
+}
+html .order_details td a {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+}
+@media screen and (max-width: 991px) {
+  html .order_details td a {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+html address {
+  font-family: 'EB Garamond';
+}
+html strong {
+  font-family: 'Jost' !important;
+}
+html bdi,
+html .woocommerce-Price-amount,
+html .woocommerce-Price-currencySymbol {
+  font-weight: 400;
+  font-family: 'Jost' !important;
+}
+html .woocommerce-order-details__title,
+html .woocommerce-column__title,
+html .woocommerce-thankyou-order-received {
+  font-family: 'Jost' !important;
+  font-weight: 300 !important;
+  color: #D3B159 !important;
+  text-transform: uppercase;
+}
+html .woocommerce-order {
+  font-family: 'EB Garamond';
+}
+html .woocommerce .product-name a,
+html .woocommerce .product-name a:hover {
+  color: #D3B159;
+  font-family: 'Jost' !important;
+}
+html .woocommerce-cart table.cart th,
+html .woocommerce-cart .cart-collaterals .cart_totals table th,
+html .woocommerce table.shop_table th,
+html .woocommerce table.shop_table tfoot th {
+  font-size: 12px;
+}
+html .woocommerce ul.order_details li {
+  font-size: 0.9em;
+}
+html .woocommerce-product-attributes-item__label,
+html .woocommerce-error strong,
+html .woocommerce-MyAccount-content strong,
+html .woocommerce-shipping-destination strong,
+html .woocommerce p.order-info mark,
+html .woocommerce-MyAccount-content mark.order-number,
+html .woocommerce-MyAccount-content mark.order-date,
+html .woocommerce-MyAccount-content mark.order-status,
+html .woocommerce-order-overview strong {
+  font-weight: 500;
+}
+.woocommerce-order-received .woocommerce a.button {
+  font-family: 'Lato';
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  padding: 12px 12px;
+  border-radius: 0px;
+  min-width: 212.8px;
+  transition-duration: 0.3s;
+  transition-property: all;
+  background-color: #0C3451;
+  border: 1px solid #0C3451;
+  color: #ffffff;
+}
+@media screen and (max-width: 991px) {
+  .woocommerce-order-received .woocommerce a.button {
+    font-size: 12px;
+    padding: 20px 5px;
+  }
+}
+.woocommerce-order-received .woocommerce a.button:hover {
+  border-top-color: #0C3451;
+  border-right-color: #0C3451;
+  border-bottom-color: #0C3451;
+  border-left-color: #0C3451;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  background: white;
+  color: #D3B159;
+}
+.alfredo-form .wrapper-submit {
+  text-align: right;
+}
+.alfredo-form .row-form p {
+  width: 100%;
+  display: flex;
+  column-gap: 30px;
+  min-height: 72px;
+}
+.alfredo-form .row-single-inpt p {
+  min-height: 72px;
+  width: 100%;
+}
+.alfredo-form .wpcf7-acceptance .wpcf7-list-item {
+  margin: 0;
+}
+.alfredo-form a {
+  text-decoration: underline;
+  color: #2b2c28;
+}
+.alfredo-form a:hover {
+  color: #D3B159;
+}
+.wpcf7-submit {
+  background: #D3B159;
+  color: white;
+  font-family: 'Lato';
+  font-size: 16px;
+  text-transform: uppercase;
+  padding-top: 11.2px;
+  padding-right: 49.6px;
+  padding-bottom: 11.2px;
+  padding-left: 49.2px;
+  letter-spacing: 2px;
+  border: 0;
+}
+/*************************/
+/*      Breakpoint       */
+/*************************/
+@media screen and (max-width: 1500px) {
+  .ct-section-inner-wrap > nav .menu-item a {
+    font-size: 0.8em;
+  }
+}
+@media screen and (max-width: 1424px) {
+  .shop-top {
+    margin-left: 0;
+  }
+}
+@media (max-width: 1360px) {
+  body .wrapper-img {
+    padding-right: 0 ;
+    width: auto;
+  }
+}
+@media screen and (max-width: 1134px) {
+  body .shop-top {
+    display: none !important;
+  }
+  #_nav_menu-63-12 {
+    margin-right: 30px !important;
+  }
+}
+@media screen and (max-width: 991px) {
+  body .atomic-logo {
+    flex-grow: 1;
+  }
+  body .ct-new-columns > .ct-div-block {
+    padding: 0px;
+  }
+  body .ct-new-columns > .ct-div-block .ct-section-inner-wrap {
+    padding: 0;
+  }
+  body .ct-new-columns > .ct-div-block.col-filtri {
+    padding: 0px;
+  }
+  body.woocommerce .oxy-product-cart-button,
+  body.woocommerce .oxy-woo-element div.product form.cart {
+    max-width: 100%;
+    display: flex !important;
+  }
+  body.woocommerce div.product form.cart div.quantity {
+    margin: 0 ;
+  }
+  body .woocommerce-page div.product form.cart div.quantity input,
+  .woocommerce div.product form.cart div.quantity input {
+    width: 200px;
+  }
+  body.product-type-gift-card div.gift_card_template_button div.quantity {
+    margin-bottom: 30px ;
+  }
+  body.product-type-gift-card div.gift_card_template_button button.single_add_to_cart_button {
+    margin-bottom: 30px !important;
+  }
+  .normal-post {
+    width: 50%;
+  }
+  .normal-post img {
+    height: 450px;
+  }
+  .footer-alfredo {
+    padding: 20px;
+  }
+}
+@media screen and (max-width: 767px) {
+  body .woocommerce #content table.cart .product-thumbnail,
+  body .woocommerce table.cart .product-thumbnail,
+  body .woocommerce-page #content table.cart .product-thumbnail,
+  body .woocommerce-page table.cart .product-thumbnail {
+    display: block;
+    width: 100%;
+  }
+  body .woocommerce #content table.cart .product-thumbnail img,
+  body .woocommerce table.cart .product-thumbnail img,
+  body .woocommerce-page #content table.cart .product-thumbnail img,
+  body .woocommerce-page table.cart .product-thumbnail img {
+    width: 130px;
+    height: 130px;
+    max-width: 130px !important;
+    max-height: 130px;
+  }
+  body .woocommerce #content table.cart .product-thumbnail:before,
+  body .woocommerce table.cart .product-thumbnail:before,
+  body .woocommerce-page #content table.cart .product-thumbnail:before,
+  body .woocommerce-page table.cart .product-thumbnail:before {
+    display: none;
+  }
+  body .woocommerce table.shop_table td a,
+  body .woocommerce table.shop_table tfoot td a,
+  body .woocommerce table.shop_table tfoot th a,
+  body .woocommerce table.shop_table th a,
+  body .woocommerce table.shop_table td .woocommerce-Price-amount,
+  body .woocommerce table.shop_table tfoot td .woocommerce-Price-amount,
+  body .woocommerce table.shop_table tfoot th .woocommerce-Price-amount,
+  body .woocommerce table.shop_table th .woocommerce-Price-amount,
+  body .woocommerce table.shop_table td:before,
+  body .woocommerce table.shop_table tfoot td:before,
+  body .woocommerce table.shop_table tfoot th:before,
+  body .woocommerce table.shop_table th:before {
+    font-size: 15px !important;
+    text-transform: uppercase;
+    font-family: 'Jost';
+    letter-spacing: 2px !important;
+    font-weight: normal !important;
+    color: #0C3451 !important;
+  }
+  body .woocommerce table.shop_table td a,
+  body .woocommerce table.shop_table tfoot td a,
+  body .woocommerce table.shop_table tfoot th a,
+  body .woocommerce table.shop_table th a,
+  body .woocommerce table.shop_table td .woocommerce-Price-amount,
+  body .woocommerce table.shop_table tfoot td .woocommerce-Price-amount,
+  body .woocommerce table.shop_table tfoot th .woocommerce-Price-amount,
+  body .woocommerce table.shop_table th .woocommerce-Price-amount {
+    color: #D3B159 !important;
+  }
+  body .woocommerce table.shop_table td.product-remove a {
+    position: absolute;
+    right: 30px;
+    color: #FF5800 !important;
+    font-size: 30px !important;
+  }
+  body .oxy-woo-cart table.cart .input-text.qty {
+    width: 85px;
+    padding: 12px 8px;
+  }
+  body .oxy-woo-cart table.cart tr:last-child td.actions {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  body .woocommerce table.shop_table .cart-subtotal th,
+  body .woocommerce table.shop_table .cart-subtotal td {
+    padding-top: 38px;
+  }
+  body .wc-proceed-to-checkout a {
+    width: 100%;
+  }
+  body .cross-sells {
+    display: none;
+  }
+  body .normal-post {
+    width: 100%;
+  }
+  body.woocommerce-order-received .woocommerce-order-overview li {
+    padding-left: 20px !important;
+  }
+  body.product-type-gift-card div.gift_card_template_button {
+    width: 100%;
+  }
+  body.product-type-gift-card div.gift_card_template_button div.quantity {
+    width: 100%;
+  }
+  body.product-type-gift-card div.gift_card_template_button div.quantity input {
+    width: 100% !important;
+  }
+  body.product-type-gift-card div.gift_card_template_button button.single_add_to_cart_button {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 490px) {
+  .prod-cart-btn .quantity {
+    width: 100%;
+  }
+  .prod-cart-btn .quantity input {
+    width: 100% !important;
+  }
+  .prod-cart-btn .button {
+    margin-top: 10px !important;
+  }
+}
+/*# sourceMappingURL=main.css.map */:where(.wp-site-blocks *:focus){outline-width:2px;outline-style:solid}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://fettuccinealfredo.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.4' media='all' />
+<link rel='stylesheet' id='oxygen-css' href='https://fettuccinealfredo.com/wp-content/plugins/oxygen4.9/component-framework/oxygen.css?ver=4.9' media='all' />
+<link rel='stylesheet' id='sps_front_css-css' href='https://fettuccinealfredo.com/wp-content/plugins/sync-post-with-other-site/assets/css/sps_front_style.css?rand=989&#038;ver=1.8' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css' href='https://fettuccinealfredo.com/wp-content/uploads/useanyfont/uaf.css?ver=1739289380' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.6.2' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.6.2' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.6.2' media='all' />
+<link rel='stylesheet' id='woocommerce-blocktheme-css' href='https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/css/woocommerce-blocktheme.css?ver=9.6.2' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='trp-language-switcher-style-css' href='https://fettuccinealfredo.com/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.9.5' media='all' />
+<link rel='stylesheet' id='photoswipe-css' href='https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=9.6.2' media='all' />
+<link rel='stylesheet' id='photoswipe-default-skin-css' href='https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=9.6.2' media='all' />
+<link rel='stylesheet' id='brands-styles-css' href='https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.6.2' media='all' />
+<script id="cookie-law-info-js-extra">
+var _ckyConfig = {"_ipData":[],"_assetsURL":"https:\/\/fettuccinealfredo.com\/wp-content\/plugins\/cookie-law-info\/lite\/frontend\/images\/","_publicURL":"https:\/\/fettuccinealfredo.com","_expiry":"365","_categories":[{"name":"Necessary","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[{"cookieID":"1","domain":"alfredoallascrofa.com","provider":""}],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true}},{"name":"Functional","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"2","domain":"alfredoallascrofa.com","provider":""}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Analytics","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"3","domain":"alfredoallascrofa.com","provider":""}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Performance","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"4","domain":"alfredoallascrofa.com","provider":""}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Advertisement","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"settings":{"type":"banner","preferenceCenterType":"popup","position":"bottom","applicableLaw":"gdpr"},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":true,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":{"background-color":"#0C3451"},"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":false,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#0C3451","background-color":"transparent","border-color":"transparent"}},"auditTable":{"status":true},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863dc"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}}}}},"_version":"3.2.8","_logConsent":"1","_tags":[{"tag":"accept-button","styles":{"color":"#0C3451","background-color":"#D3B159","border-color":"#0C3451"}},{"tag":"reject-button","styles":{"color":"#D3B159","background-color":"transparent","border-color":"TRANSPARENT"}},{"tag":"settings-button","styles":{"color":"#D3B159","background-color":"transparent","border-color":"TRANSPARENT"}},{"tag":"readmore-button","styles":{"color":"#0C3451","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},{"tag":"accept-button","styles":{"color":"#0C3451","background-color":"#D3B159","border-color":"#0C3451"}},{"tag":"revisit-consent","styles":{"background-color":"#0C3451"}}],"_shortCodes":[{"key":"cky_readmore","content":"<a href=\"#\" class=\"cky-policy\" aria-label=\"Cookie Policy\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\">Cookie Policy<\/a>","tag":"readmore-button","status":false,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"cky_show_desc","content":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Show more\">Show more<\/button>","tag":"show-desc-button","status":true,"attributes":[]},{"key":"cky_hide_desc","content":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Show less\">Show less<\/button>","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"cky_category_toggle_label","content":"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"cky_enable_category_label","content":"Enable","tag":"","status":true,"attributes":[]},{"key":"cky_disable_category_label","content":"Disable","tag":"","status":true,"attributes":[]},{"key":"cky_video_placeholder","content":"<div class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"><p class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\">Please accept cookies to access this content<\/p><\/div>","tag":"","status":true,"attributes":[]},{"key":"cky_enable_optout_label","content":"Enable","tag":"","status":true,"attributes":[]},{"key":"cky_disable_optout_label","content":"Disable","tag":"","status":true,"attributes":[]},{"key":"cky_optout_toggle_label","content":"[cky_{{status}}_optout_label] [cky_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"cky_optout_option_title","content":"Do Not Sell or Share My Personal Information","tag":"","status":true,"attributes":[]},{"key":"cky_optout_close_label","content":"Close","tag":"","status":true,"attributes":[]}],"_rtl":"","_language":"en","_providersToBlock":[]};
+var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 100%; box-sizing: border-box; z-index: 9999999;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 16.5px 24px; box-shadow: 0 -1px 10px 0 #acabab4d;}.cky-banner-bottom{bottom: 0; left: 0;}.cky-banner-top{top: 0; left: 0;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-group{display: flex; justify-content: space-between; align-items: center; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0; overflow-wrap: break-word;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: center; align-items: center; margin-left: 15px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px 27px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; white-space: nowrap; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@media (max-width: 768px){.cky-notice-group{display: block;}.cky-notice-btn-wrapper{margin-left: 0;}.cky-notice-btn-wrapper .cky-btn{flex: auto; max-width: 100%; margin-top: 10px; white-space: unset;}}@media (max-width: 576px){.cky-notice-btn-wrapper{flex-direction: column;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 28px;}.cky-consent-container .cky-consent-bar{padding: 16.5px 0;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper .cky-btn{width: 100%; padding: 8px; margin-right: 0;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}}@media (max-width: 425px){.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-btn-wrapper{flex-direction: column;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 768px){.cky-notice-btn-wrapper{margin-left: 0; margin-top: 10px; justify-content: left;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{padding: 0;}}@media (max-width: 352px){.cky-notice-btn-wrapper .cky-btn-do-not-sell, .cky-notice-des a.cky-policy{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"\/wp-content\/plugins\/cookie-law-info\/lite\/frontend\/images\/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}"};
+</script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?ver=3.2.8" id="cookie-law-info-js"></script>
+<script src="https://fettuccinealfredo.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.6.2" id="jquery-blockui-js" defer data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Visualizza carrello","cart_url":"https:\/\/fettuccinealfredo.com\/carrello\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.6.2" id="wc-add-to-cart-js" defer data-wp-strategy="defer"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.6.2" id="js-cookie-js" defer data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.6.2" id="woocommerce-js" defer data-wp-strategy="defer"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/translatepress-multilingual/assets/js/trp-frontend-compatibility.js?ver=2.9.5" id="trp-frontend-compatibility-js"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.9.6.2" id="zoom-js" defer data-wp-strategy="defer"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.9.6.2" id="flexslider-js" defer data-wp-strategy="defer"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.9.6.2" id="photoswipe-js" defer data-wp-strategy="defer"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.9.6.2" id="photoswipe-ui-default-js" defer data-wp-strategy="defer"></script>
+<script id="wc-single-product-js-extra">
+var wc_single_product_params = {"i18n_required_rating_text":"Seleziona una valutazione","i18n_product_gallery_trigger_text":"Visualizza la galleria di immagini a schermo intero","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false,"touch":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+</script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=9.6.2" id="wc-single-product-js" defer data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://fettuccinealfredo.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fettuccinealfredo.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<meta name="generator" content="WooCommerce 9.6.2" />
+<style id="cky-style-inline">[data-cky-tag]{visibility:hidden;}</style><link rel="alternate" hreflang="it-IT" href="https://fettuccinealfredo.com/wp-content/uploads/2022/10/salsa_Alfredo_box_dettaglio.jpg"/>
+<link rel="alternate" hreflang="en-GB" href="https://fettuccinealfredo.com/wp-content/uploads/2022/10/salsa_Alfredo_box_dettaglio.jpg"/>
+<link rel="alternate" hreflang="it" href="https://fettuccinealfredo.com/wp-content/uploads/2022/10/salsa_Alfredo_box_dettaglio.jpg"/>
+<link rel="alternate" hreflang="en" href="https://fettuccinealfredo.com/wp-content/uploads/2022/10/salsa_Alfredo_box_dettaglio.jpg"/>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style class='wp-fonts-local'>
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://fettuccinealfredo.com/wp-content/themes/oxygen-is-not-a-theme/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://fettuccinealfredo.com/wp-content/themes/oxygen-is-not-a-theme/assets/fonts/cardo/cardo_normal_400.woff2') format('woff2');}
+@font-face{font-family:Cardo;font-style:italic;font-weight:400;font-display:fallback;src:url('https://fettuccinealfredo.com/wp-content/themes/oxygen-is-not-a-theme/assets/fonts/cardo/cardo_italic_400.woff2') format('woff2');}
+@font-face{font-family:Cardo;font-style:normal;font-weight:700;font-display:fallback;src:url('https://fettuccinealfredo.com/wp-content/themes/oxygen-is-not-a-theme/assets/fonts/cardo/cardo_normal_700.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://fettuccinealfredo.com/wp-content/uploads/2025/03/cropped-FETT_Favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://fettuccinealfredo.com/wp-content/uploads/2025/03/cropped-FETT_Favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://fettuccinealfredo.com/wp-content/uploads/2025/03/cropped-FETT_Favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://fettuccinealfredo.com/wp-content/uploads/2025/03/cropped-FETT_Favicon-270x270.png" />
+<link rel='stylesheet' id='oxygen-cache-12-css' href='//fettuccinealfredo.com/wp-content/uploads/oxygen/css/12.css?cache=1742572887&#038;ver=6.7.2' media='all' />
+<link rel='stylesheet' id='oxygen-cache-9-css' href='//fettuccinealfredo.com/wp-content/uploads/oxygen/css/9.css?cache=1739462430&#038;ver=6.7.2' media='all' />
+<link rel='stylesheet' id='oxygen-universal-styles-css' href='//fettuccinealfredo.com/wp-content/uploads/oxygen/css/universal.css?cache=1742572886&#038;ver=6.7.2' media='all' />
+<!-- END OF WP_HEAD() -->
+</head>
+<body class="error404 wp-embed-responsive  theme-oxygen-is-not-a-theme oxygen-body woocommerce-uses-block-theme woocommerce-block-theme-has-button-styles woocommerce-no-js translatepress-it_IT" >
+
+
+
+
+						<section id="section-59-12" class=" ct-section section-top-bar" ><div class="ct-section-inner-wrap"><div id="div_block-167-12" class="ct-div-block" ><div id="div_block-169-12" class="ct-div-block box-lato-menu" ><div id="shortcode-183-12" class="ct-shortcode" ><div class="trp_language_switcher_shortcode">
+<div class="trp-language-switcher trp-language-switcher-container" data-no-translation >
+    <div class="trp-ls-shortcode-current-language">
+        <a href="#" class="trp-ls-shortcode-disabled-language trp-ls-disabled-language" title="Italian" onclick="event.preventDefault()">
+			 IT		</a>
+    </div>
+    <div class="trp-ls-shortcode-language">
+                <a href="#" class="trp-ls-shortcode-disabled-language trp-ls-disabled-language"  title="Italian" onclick="event.preventDefault()">
+			 IT		</a>
+                    <a href="https://fettuccinealfredo.com/wp-content/uploads/2022/10/salsa_Alfredo_box_dettaglio.jpg" title="English">
+             EN        </a>
+
+        </div>
+    <script type="application/javascript">
+        // need to have the same with set from JS on both divs. Otherwise it can push stuff around in HTML
+        var trp_ls_shortcodes = document.querySelectorAll('.trp_language_switcher_shortcode .trp-language-switcher');
+        if ( trp_ls_shortcodes.length > 0) {
+            // get the last language switcher added
+            var trp_el = trp_ls_shortcodes[trp_ls_shortcodes.length - 1];
+
+            var trp_shortcode_language_item = trp_el.querySelector( '.trp-ls-shortcode-language' )
+            // set width
+            var trp_ls_shortcode_width                                               = trp_shortcode_language_item.offsetWidth + 16;
+            trp_shortcode_language_item.style.width                                  = trp_ls_shortcode_width + 'px';
+            trp_el.querySelector( '.trp-ls-shortcode-current-language' ).style.width = trp_ls_shortcode_width + 'px';
+
+            // We're putting this on display: none after we have its width.
+            trp_shortcode_language_item.style.display = 'none';
+        }
+    </script>
+</div>
+</div></div><nav id="_nav_menu-61-12" class="oxy-nav-menu menu-top hide-cell oxy-nav-menu-dropdowns oxy-nav-menu-dropdown-arrow" ><div class='oxy-menu-toggle'><div class='oxy-nav-menu-hamburger-wrap'><div class='oxy-nav-menu-hamburger'><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div></div></div></div><div class="menu-menu-sinistra-container"><ul id="menu-menu-sinistra" class="oxy-nav-menu-list"><li id="menu-item-644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-644"><a href="/negozio">Shop</a></li>
+</ul></div></nav></div><a id="link-12-225" class="ct-link atomic-logo" href="/" target="_self"  ><img  id="image-13-225" alt="" src="https://fettuccinealfredo.com/wp-content/uploads/2024/12/Raggruppa-101.png" class="ct-image"/></a><div id="div_block-170-12" class="ct-div-block box-lato-menu" ><nav id="_nav_menu-63-12" class="oxy-nav-menu menu-top hide-cell oxy-nav-menu-dropdowns oxy-nav-menu-dropdown-arrow" ><div class='oxy-menu-toggle'><div class='oxy-nav-menu-hamburger-wrap'><div class='oxy-nav-menu-hamburger'><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div></div></div></div><div class="menu-menu-destra-container"><ul id="menu-menu-destra" class="oxy-nav-menu-list"><li id="menu-item-1226" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1226"><a href="https://fettuccinealfredo.com/magazine/">Magazine</a></li>
+</ul></div></nav></div></div><div id="_toggle-67-12" class="oxy-toggle toggle-7741 toggle-7741-expanded"  data-oxy-toggle-initial-state="closed" data-oxy-toggle-active-class="toggle-7741-expanded" >
+			<div class='oxy-expand-collapse-icon' href='#'></div>
+			<div class='oxy-toggle-content'>
+                <h1 id="headline-68-12" class="ct-headline"></h1>			</div>
+		</div><div id="div_block-70-12" class="ct-div-block box-right" ><div id="div_block-72-12" class="ct-div-block div-row hide-pc" ></div><nav id="_nav_menu-137-12" class="oxy-nav-menu menu-top menu-burger hide-pc oxy-nav-menu-dropdowns oxy-nav-menu-dropdown-arrow oxy-nav-menu-vertical" ><div class='oxy-menu-toggle'><div class='oxy-nav-menu-hamburger-wrap'><div class='oxy-nav-menu-hamburger'><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div></div></div></div><div class="menu-mobile-menu-top-bar-container"><ul id="menu-mobile-menu-top-bar" class="oxy-nav-menu-list"><li id="menu-item-1252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1252"><a href="https://fettuccinealfredo.com/">Shop</a></li>
+<li id="menu-item-1253" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1253"><a href="https://fettuccinealfredo.com/magazine/">Magazine</a></li>
+</ul></div></nav><div id="div_block-133-12" class="ct-div-block div-row" ></div><div id="shortcode-184-12" class="ct-shortcode" ><div class="trp_language_switcher_shortcode">
+<div class="trp-language-switcher trp-language-switcher-container" data-no-translation >
+    <div class="trp-ls-shortcode-current-language">
+        <a href="#" class="trp-ls-shortcode-disabled-language trp-ls-disabled-language" title="Italian" onclick="event.preventDefault()">
+			 IT		</a>
+    </div>
+    <div class="trp-ls-shortcode-language">
+                <a href="#" class="trp-ls-shortcode-disabled-language trp-ls-disabled-language"  title="Italian" onclick="event.preventDefault()">
+			 IT		</a>
+                    <a href="https://fettuccinealfredo.com/wp-content/uploads/2022/10/salsa_Alfredo_box_dettaglio.jpg" title="English">
+             EN        </a>
+
+        </div>
+    <script type="application/javascript">
+        // need to have the same with set from JS on both divs. Otherwise it can push stuff around in HTML
+        var trp_ls_shortcodes = document.querySelectorAll('.trp_language_switcher_shortcode .trp-language-switcher');
+        if ( trp_ls_shortcodes.length > 0) {
+            // get the last language switcher added
+            var trp_el = trp_ls_shortcodes[trp_ls_shortcodes.length - 1];
+
+            var trp_shortcode_language_item = trp_el.querySelector( '.trp-ls-shortcode-language' )
+            // set width
+            var trp_ls_shortcode_width                                               = trp_shortcode_language_item.offsetWidth + 16;
+            trp_shortcode_language_item.style.width                                  = trp_ls_shortcode_width + 'px';
+            trp_el.querySelector( '.trp-ls-shortcode-current-language' ).style.width = trp_ls_shortcode_width + 'px';
+
+            // We're putting this on display: none after we have its width.
+            trp_shortcode_language_item.style.display = 'none';
+        }
+    </script>
+</div>
+</div></div><div id="div_block-185-12" class="ct-div-block div-row" ></div><nav id="_nav_menu-138-12" class="oxy-nav-menu menu-top menu-burger oxy-nav-menu-dropdowns oxy-nav-menu-dropdown-arrow oxy-nav-menu-vertical" ><div class='oxy-menu-toggle'><div class='oxy-nav-menu-hamburger-wrap'><div class='oxy-nav-menu-hamburger'><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div></div></div></div><div class="menu-menu-burger-desktop-container"><ul id="menu-menu-burger-desktop" class="oxy-nav-menu-list"><li id="menu-item-1254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1254"><a href="https://fettuccinealfredo.com/contatti/">Contatti</a></li>
+<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="https://fettuccinealfredo.com/carrello/">Carrello</a></li>
+<li id="menu-item-1255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1255"><a href="https://alfredoallascrofa.com/">Il Ristorante</a></li>
+</ul></div></nav><div id="div_block-73-12" class="ct-div-block div-row" ></div><div id="new_columns-75-12" class="ct-new-columns col-voci-menu" ><div id="div_block-76-12" class="ct-div-block" ><a id="link_text-81-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a><a id="link_text-86-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a><a id="link_text-82-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a></div><div id="div_block-77-12" class="ct-div-block" ><a id="link_text-84-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a><a id="link_text-83-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a><a id="link_text-92-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a></div><div id="div_block-78-12" class="ct-div-block" ><a id="link_text-87-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a><a id="link_text-90-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a><a id="link_text-91-12" class="ct-link-text voce-secondaria" href="http://" target="_self"  >Voce secondaria</a></div></div><div id="div_block-93-12" class="ct-div-block div-row" ></div><div id="text_block-168-12" class="ct-text-block voce-secondaria" >Seguici sui social</div><div id="div_block-171-12" class="ct-div-block" ><div id="_social_icons-172-12" class="oxy-social-icons" ><a href='https://www.facebook.com/AlfredoallaScrofa' target='_blank' class='oxy-social-icons-facebook'><svg><title>Visit our Facebook</title><use xlink:href='#oxy-social-icons-icon-facebook-blank'></use></svg></a><a href='https://www.instagram.com/alfredoallascrofa/' target='_blank' class='oxy-social-icons-instagram'><svg><title>Visit our Instagram</title><use xlink:href='#oxy-social-icons-icon-instagram-blank'></use></svg></a></div><a id="link-173-12" class="ct-link" href="https://www.tiktok.com/@alfredoallascrofa?_t=8rxohQWUFov&#038;_r=1" target="_blank"  ><div id="fancy_icon-174-12" class="ct-fancy-icon" ><svg id="svg-fancy_icon-174-12"><use xlink:href="#FontAwesomeicon-tiktok"></use></svg></div></a><a id="link-175-12" class="ct-link" href="https://www.threads.net/@alfredoallascrofa?invite=0//" target="_blank"  ><div id="div_block-176-12" class="ct-div-block icon-threads" ></div></a></div><div id="div_block-163-12" class="ct-div-block div-row hide-pc" ></div><img  id="image-164-12" alt="" src="https://fettuccinealfredo.com/wp-content/uploads/2024/10/loghi_alfredo-07.png" class="ct-image" srcset="https://fettuccinealfredo.com/wp-content/uploads/2024/10/loghi_alfredo-07.png 360w, https://fettuccinealfredo.com/wp-content/uploads/2024/10/loghi_alfredo-07-300x92.png 300w" sizes="(max-width: 360px) 100vw, 360px" /><div id="new_columns-139-12" class="ct-new-columns hide-pc" ><div id="div_block-140-12" class="ct-div-block" ><div id="div_block-143-12" class="ct-div-block" ><h4 id="headline-144-12" class="ct-headline atomic-footer-7-title">INFORMATIVA LEGALE</h4><div id="_rich_text-145-12" class="oxy-rich-text" ><p>Vicolo della Campana, 13<br />00186 Roma RM<br />tel. +39 0686292397</p></div><a id="link_text-146-12" class="ct-link-text link-footer" href="https://www.iubenda.com/privacy-policy/27104400"   >Privacy Policy</a><a id="link_text-147-12" class="ct-link-text link-footer" href="https://www.iubenda.com/privacy-policy/27104400/cookie-policy"   >Cookie Policy</a><a id="link_text-148-12" class="ct-link-text link-footer" href="https://www.iubenda.com/termini-e-condizioni/27104400"   >Termini e Condizioni</a></div></div><div id="div_block-141-12" class="ct-div-block" ><div id="div_block-154-12" class="ct-div-block" ><h4 id="headline-155-12" class="ct-headline atomic-footer-7-title">sitemap</h4><nav id="_nav_menu-156-12" class="oxy-nav-menu oxy-nav-menu-dropdowns oxy-nav-menu-dropdown-arrow oxy-nav-menu-vertical" ><div class='oxy-menu-toggle'><div class='oxy-nav-menu-hamburger-wrap'><div class='oxy-nav-menu-hamburger'><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div></div></div></div><div class="menu-sitemap-container"><ul id="menu-sitemap" class="oxy-nav-menu-list"><li id="menu-item-1250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1250"><a href="https://fettuccinealfredo.com/">Shop</a></li>
+<li id="menu-item-1251" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1251"><a href="https://fettuccinealfredo.com/magazine/">Magazine</a></li>
+</ul></div></nav></div></div></div><div id="_social_icons-161-12" class="oxy-social-icons hide-pc" ><a href='https://facebook.com' target='_blank' class='oxy-social-icons-facebook'><svg><title>Visit our Facebook</title><use xlink:href='#oxy-social-icons-icon-facebook-blank'></use></svg></a><a href='https://instagram.com' target='_blank' class='oxy-social-icons-instagram'><svg><title>Visit our Instagram</title><use xlink:href='#oxy-social-icons-icon-instagram-blank'></use></svg></a></div><div id="div_block-105-12" class="ct-div-block hide-cell" ></div><a id="link_button-104-12" class="ct-link-button primary-gold hide-cell" href="https://alfredoallascrofa.com/prenota-ora/"   >Prenota ora</a><div id="text_block-107-12" class="ct-text-block" >COPYRIGHT Alfredo alla Scrofa</div></div></div></section><div id="div_block-189-12" class="ct-div-block" ><section id="section-3-300" class=" ct-section" ><div class="ct-section-inner-wrap"><h2 id="headline-4-300" class="ct-headline atomic-secondary-heading">Recent Posts</h2><div id="text_block-5-300" class="ct-text-block atomic-subheading" >Detract yet delight written farther his general. If in so bred at dare rose lose good. Feel and make two real miss use easy.</div>        
+                <div id="_posts_grid-6-300" class='oxy-easy-posts oxy-posts-grid' >
+                                    <div class='oxy-posts'>
+                     <div class='oxy-post'>
+  
+    <a class='oxy-post-image' href='https://fettuccinealfredo.com/il-burro-artigianale-di-montagna/'>
+      <div class='oxy-post-image-fixed-ratio' style='background-image: url(https://fettuccinealfredo.com/wp-content/uploads/2025/02/alfredo-BurroMalga.jpg);'>
+      </div>
+      
+      <div class='oxy-post-image-date-overlay'>
+		Febbraio 8, 2025	  </div>
+      
+	</a>
+  
+	<a class='oxy-post-title' href='https://fettuccinealfredo.com/il-burro-artigianale-di-montagna/'>Il Burro Artigianale di Montagna</a>
+
+	<div class='oxy-post-meta'>
+
+		<div class='oxy-post-meta-author oxy-post-meta-item'>
+			alfredo		</div>
+
+		<div class='oxy-post-meta-comments oxy-post-meta-item'>
+			<a href='https://fettuccinealfredo.com/il-burro-artigianale-di-montagna/#respond'>Nessun commento</a>
+		</div>
+
+	</div>
+
+	<div class='oxy-post-content'>
+		<p>Quando assapori le Fettuccine Alfredo da Alfredo alla Scrofa, scopri il gusto di una storia fatta di tradizione e qualità.Uno [&hellip;]</p>
+	</div>
+
+	<a href='https://fettuccinealfredo.com/il-burro-artigianale-di-montagna/' class='oxy-read-more'>Read More</a>
+
+</div> <div class='oxy-post'>
+  
+    <a class='oxy-post-image' href='https://fettuccinealfredo.com/la-pasta-fresca-uovo/'>
+      <div class='oxy-post-image-fixed-ratio' style='background-image: url(https://fettuccinealfredo.com/wp-content/uploads/2025/02/alfredo-FettuccineNews.jpg);'>
+      </div>
+      
+      <div class='oxy-post-image-date-overlay'>
+		Febbraio 5, 2025	  </div>
+      
+	</a>
+  
+	<a class='oxy-post-title' href='https://fettuccinealfredo.com/la-pasta-fresca-uovo/'>La Pasta fresca all’uovo</a>
+
+	<div class='oxy-post-meta'>
+
+		<div class='oxy-post-meta-author oxy-post-meta-item'>
+			alfredo		</div>
+
+		<div class='oxy-post-meta-comments oxy-post-meta-item'>
+			<a href='https://fettuccinealfredo.com/la-pasta-fresca-uovo/#respond'>Nessun commento</a>
+		</div>
+
+	</div>
+
+	<div class='oxy-post-content'>
+		<p>Le Fettuccine Alfredo devono la loro fama alla qualità della sfoglia fresca all’uovo.La consistenza e il sapore autentico sono il [&hellip;]</p>
+	</div>
+
+	<a href='https://fettuccinealfredo.com/la-pasta-fresca-uovo/' class='oxy-read-more'>Read More</a>
+
+</div> <div class='oxy-post'>
+  
+    <a class='oxy-post-image' href='https://fettuccinealfredo.com/il-parmigiano-reggiano-24-mesi/'>
+      <div class='oxy-post-image-fixed-ratio' style='background-image: url(https://fettuccinealfredo.com/wp-content/uploads/2025/02/alfredo-Parmigiano.jpg);'>
+      </div>
+      
+      <div class='oxy-post-image-date-overlay'>
+		Febbraio 1, 2025	  </div>
+      
+	</a>
+  
+	<a class='oxy-post-title' href='https://fettuccinealfredo.com/il-parmigiano-reggiano-24-mesi/'>Il Parmigiano Reggiano 24 mesi</a>
+
+	<div class='oxy-post-meta'>
+
+		<div class='oxy-post-meta-author oxy-post-meta-item'>
+			alfredo		</div>
+
+		<div class='oxy-post-meta-comments oxy-post-meta-item'>
+			<a href='https://fettuccinealfredo.com/il-parmigiano-reggiano-24-mesi/#respond'>Nessun commento</a>
+		</div>
+
+	</div>
+
+	<div class='oxy-post-content'>
+		<p>Un'eccellenza italiana Un'eccellenza italiana.Uno degli ingredienti delle Fettuccine Alfredo è il Parmigiano Reggiano rigorosamente stagionato 24 Mesi, selezionato con cura [&hellip;]</p>
+	</div>
+
+	<a href='https://fettuccinealfredo.com/il-parmigiano-reggiano-24-mesi/' class='oxy-read-more'>Read More</a>
+
+</div> <div class='oxy-post'>
+  
+    <a class='oxy-post-image' href='https://fettuccinealfredo.com/larte-della-mantecatura-un-gesto-damore-tramandato-da-generazioni/'>
+      <div class='oxy-post-image-fixed-ratio' style='background-image: url(https://fettuccinealfredo.com/wp-content/uploads/2025/01/alfredo-Mantecatura_fettuccine.jpg);'>
+      </div>
+      
+      <div class='oxy-post-image-date-overlay'>
+		Gennaio 27, 2025	  </div>
+      
+	</a>
+  
+	<a class='oxy-post-title' href='https://fettuccinealfredo.com/larte-della-mantecatura-un-gesto-damore-tramandato-da-generazioni/'>L’arte della mantecatura: un gesto d’amore tramandato da generazioni</a>
+
+	<div class='oxy-post-meta'>
+
+		<div class='oxy-post-meta-author oxy-post-meta-item'>
+			alfredo		</div>
+
+		<div class='oxy-post-meta-comments oxy-post-meta-item'>
+			<a href='https://fettuccinealfredo.com/larte-della-mantecatura-un-gesto-damore-tramandato-da-generazioni/#respond'>Nessun commento</a>
+		</div>
+
+	</div>
+
+	<div class='oxy-post-content'>
+		<p>Il segreto dietro un piatto perfetto Da Alfredo alla Scrofa, l’arte della mantecatura rappresenta il cuore della nostra filosofia culinaria, [&hellip;]</p>
+	</div>
+
+	<a href='https://fettuccinealfredo.com/larte-della-mantecatura-un-gesto-damore-tramandato-da-generazioni/' class='oxy-read-more'>Read More</a>
+
+</div> <div class='oxy-post'>
+  
+    <a class='oxy-post-image' href='https://fettuccinealfredo.com/il-mantecatore-custode-della-tradizione/'>
+      <div class='oxy-post-image-fixed-ratio' style='background-image: url(https://fettuccinealfredo.com/wp-content/uploads/2025/02/alfredo-Mario-Mozzetti_Mantecatore.jpg);'>
+      </div>
+      
+      <div class='oxy-post-image-date-overlay'>
+		Gennaio 25, 2025	  </div>
+      
+	</a>
+  
+	<a class='oxy-post-title' href='https://fettuccinealfredo.com/il-mantecatore-custode-della-tradizione/'>Il Mantecatore: Custode della Tradizione</a>
+
+	<div class='oxy-post-meta'>
+
+		<div class='oxy-post-meta-author oxy-post-meta-item'>
+			alfredo		</div>
+
+		<div class='oxy-post-meta-comments oxy-post-meta-item'>
+			<a href='https://fettuccinealfredo.com/il-mantecatore-custode-della-tradizione/#respond'>Nessun commento</a>
+		</div>
+
+	</div>
+
+	<div class='oxy-post-content'>
+		<p>Quando storia, arte e cucina si uniscono Dietro ogni piatto perfetto di Fettuccine Alfredo c’è una figura chiave: il Mantecatore. [&hellip;]</p>
+	</div>
+
+	<a href='https://fettuccinealfredo.com/il-mantecatore-custode-della-tradizione/' class='oxy-read-more'>Read More</a>
+
+</div> <div class='oxy-post'>
+  
+    <a class='oxy-post-image' href='https://fettuccinealfredo.com/mantecatore-in-tour/'>
+      <div class='oxy-post-image-fixed-ratio' style='background-image: url(https://fettuccinealfredo.com/wp-content/uploads/2024/12/Alfredo-alla-Scrofa-Masterchef-Turchia-00.jpg);'>
+      </div>
+      
+      <div class='oxy-post-image-date-overlay'>
+		Gennaio 21, 2025	  </div>
+      
+	</a>
+  
+	<a class='oxy-post-title' href='https://fettuccinealfredo.com/mantecatore-in-tour/'>Mantecatore in tour</a>
+
+	<div class='oxy-post-meta'>
+
+		<div class='oxy-post-meta-author oxy-post-meta-item'>
+			alfredo		</div>
+
+		<div class='oxy-post-meta-comments oxy-post-meta-item'>
+			<a href='https://fettuccinealfredo.com/mantecatore-in-tour/#respond'>Nessun commento</a>
+		</div>
+
+	</div>
+
+	<div class='oxy-post-content'>
+		<p>Gusto e tradizione in viaggio Le Fettuccine Alfredo non sono solo un piatto, ma un’icona della cucina italiana, e il [&hellip;]</p>
+	</div>
+
+	<a href='https://fettuccinealfredo.com/mantecatore-in-tour/' class='oxy-read-more'>Read More</a>
+
+</div>                </div>
+                                <div class='oxy-easy-posts-pages'>
+                                    </div>
+                                            </div>
+                </div></section></div><section id="section-20-225" class=" ct-section footer-alfredo" ><div class="ct-section-inner-wrap"><img  id="image-165-12" alt="" src="https://fettuccinealfredo.com/wp-content/uploads/2024/10/loghi_alfredo-07.png" class="ct-image" srcset="https://fettuccinealfredo.com/wp-content/uploads/2024/10/loghi_alfredo-07.png 360w, https://fettuccinealfredo.com/wp-content/uploads/2024/10/loghi_alfredo-07-300x92.png 300w" sizes="(max-width: 360px) 100vw, 360px" /><div id="new_columns-21-225" class="ct-new-columns" ><div id="div_block-22-225" class="ct-div-block" ><img  id="image-115-12" alt="" src="https://fettuccinealfredo.com/wp-content/uploads/2024/12/Raggruppa-101.png" class="ct-image" srcset="" sizes="(max-width: 213px) 100vw, 213px" /></div><div id="div_block-26-225" class="ct-div-block" ><h4 id="headline-27-225" class="ct-headline atomic-footer-7-title">INFORMATIVA LEGALE</h4><div id="_rich_text-122-12" class="oxy-rich-text" ><p>Vicolo della Campana, 13<br />00186 Roma RM<br />tel. +39 0686292397
+<br>Codice fiscale/Partita Iva 17606491003
+</p></div><a id="link_text-123-12" class="ct-link-text link-footer" href="https://www.iubenda.com/privacy-policy/27104400"   >Privacy Policy</a><a id="link_text-124-12" class="ct-link-text link-footer" href="https://www.iubenda.com/privacy-policy/27104400/cookie-policy"   >Cookie Policy</a><a id="link_text-125-12" class="ct-link-text link-footer" href="https://www.iubenda.com/termini-e-condizioni/27104400"   >Termini e Condizioni</a></div><div id="div_block-33-225" class="ct-div-block" ><h4 id="headline-34-225" class="ct-headline atomic-footer-7-title">sitemap</h4><nav id="_nav_menu-142-12" class="oxy-nav-menu oxy-nav-menu-dropdowns oxy-nav-menu-dropdown-arrow oxy-nav-menu-vertical" ><div class='oxy-menu-toggle'><div class='oxy-nav-menu-hamburger-wrap'><div class='oxy-nav-menu-hamburger'><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div><div class='oxy-nav-menu-hamburger-line'></div></div></div></div><div class="menu-sitemap-container"><ul id="menu-sitemap-1" class="oxy-nav-menu-list"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1250"><a href="https://fettuccinealfredo.com/">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-1251"><a href="https://fettuccinealfredo.com/magazine/">Magazine</a></li>
+</ul></div></nav></div><div id="div_block-40-225" class="ct-div-block" ><h4 id="headline-41-225" class="ct-headline atomic-footer-7-title">indirizzo</h4><div id="_rich_text-130-12" class="oxy-rich-text" ><p>Vicolo della Campana, 13<br />00186 Roma RM<br /></div></div><div id="div_block-108-12" class="ct-div-block" ><div id="div_block-177-12" class="ct-div-block" ><div id="_social_icons-178-12" class="oxy-social-icons social-footer-icon" ><a href='https://www.facebook.com/AlfredoallaScrofa' target='_blank' class='oxy-social-icons-facebook'><svg><title>Visit our Facebook</title><use xlink:href='#oxy-social-icons-icon-facebook-blank'></use></svg></a><a href='https://www.instagram.com/alfredoallascrofa/' target='_blank' class='oxy-social-icons-instagram'><svg><title>Visit our Instagram</title><use xlink:href='#oxy-social-icons-icon-instagram-blank'></use></svg></a></div><a id="link-179-12" class="ct-link" href="https://www.tiktok.com/@alfredoallascrofa?_t=8rxohQWUFov&#038;_r=1" target="_blank"  ><div id="fancy_icon-180-12" class="ct-fancy-icon" ><svg id="svg-fancy_icon-180-12"><use xlink:href="#FontAwesomeicon-tiktok"></use></svg></div></a><a id="link-181-12" class="ct-link" href="https://www.threads.net/@alfredoallascrofa?invite=0//" target="_blank"  ><div id="div_block-182-12" class="ct-div-block icon-threads" ></div></a></div></div></div><div id="div_block-166-12" class="ct-div-block" ><div id="_rich_text-117-12" class="oxy-rich-text powered" ><p>Designed and developed by <a href="https://www.smityx.it/">Smityx</a> &amp; <a href="https://www.lesvisual.it/">Les Visual</a></p><p> </p></div></div></div></section>	<!-- WP_FOOTER -->
+<template id="tp-language" data-tp-language="it_IT"></template><script id="ckyBannerTemplate" type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide" data-cky-tag="revisit-consent" data-tooltip="Consent Preferences" style="background-color:#0C3451"> <button class="cky-btn-revisit" aria-label="Consent Preferences"> <img src="https://fettuccinealfredo.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg" alt="Revisit consent button"> </button></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#0C3451;border-color:#0C3451">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#FFFFFF"></p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#D3B159"> <p>Sul nostro sito web utilizziamo i cookie per offrirvi l'esperienza più pertinente possibile, ricordando le vostre preferenze e le vostre visite ripetute. Facendo clic su "Accetta tutto", si acconsente all'utilizzo di TUTTI i cookie. Tuttavia, è possibile visitare "Impostazioni dei cookie" per fornire un consenso controllato.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons"> <button class="cky-btn cky-btn-customize" aria-label="Personalizza" data-cky-tag="settings-button" style="color:#D3B159;background-color:transparent;border-color:TRANSPARENT">Personalizza</button>  <button class="cky-btn cky-btn-accept" aria-label="Accetta tutto" data-cky-tag="accept-button" style="color:#0C3451;background-color:#D3B159;border-color:#0C3451">Accetta tutto</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#D3B159;background-color:#0C3451;border-color:#0C3451"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#D3B159">Customise Consent Preferences</span> <button class="cky-btn-close" aria-label="[cky_preference_close_label]" data-cky-tag="detail-close"> <img src="https://fettuccinealfredo.com/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#D3B159"> <p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyse how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#D3B159">Necessary</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#D3B159"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>1</div></li><li><div>Duration</div><div>11</div></li><li><div>Description</div><div>This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</div></li></ul></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#D3B159">Functional</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#D3B159"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>2</div></li><li><div>Duration</div><div>11</div></li><li><div>Description</div><div>The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</div></li></ul></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#D3B159">Analytics</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#D3B159"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>3</div></li><li><div>Duration</div><div>11</div></li><li><div>Description</div><div>This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</div></li></ul></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#D3B159">Performance</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#D3B159"> <p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>4</div></li><li><div>Duration</div><div>11</div></li><li><div>Description</div><div>This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</div></li></ul></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#D3B159">Advertisement</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#D3B159"> <p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons">  <button class="cky-btn cky-btn-preferences" aria-label="Salva le mie preferenze" data-cky-tag="detail-save-button" style="color:#D3B159;background-color:transparent;border-color:TRANSPARENT"> Salva le mie preferenze </button> <button class="cky-btn cky-btn-accept" aria-label="Accetta tutto" data-cky-tag="detail-accept-button" style="color:#0C3451;background-color:#D3B159;border-color:#0C3451"> Accetta tutto </button> </div></div></div></div></script><script>jQuery(document).on('click','a[href*="#"]',function(t){if(jQuery(t.target).closest('.wc-tabs').length>0){return}if(jQuery(this).is('[href="#"]')||jQuery(this).is('[href="#0"]')||jQuery(this).is('[href*="replytocom"]')){return};if(location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname){var e=jQuery(this.hash);(e=e.length?e:jQuery("[name="+this.hash.slice(1)+"]")).length&&(t.preventDefault(),jQuery("html, body").animate({scrollTop:e.offset().top-0},500))}});</script><style>.ct-FontAwesomeicon-tiktok{width:0.875em}</style>
+<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1"><defs><symbol id="FontAwesomeicon-tiktok" viewBox="0 0 448 512"><title>tiktok</title><path d="M448 209.9a210.1 210.1 0 0 1 -122.8-39.3V349.4A162.6 162.6 0 1 1 185 188.3V278.2a74.6 74.6 0 1 0 52.2 71.2V0l88 0a121.2 121.2 0 0 0 1.9 22.2h0A122.2 122.2 0 0 0 381 102.4a121.4 121.4 0 0 0 67 20.1z"/></symbol></defs></svg>
+<div class="pswp" tabindex="-1" role="dialog" aria-modal="true" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--zoom" aria-label="Zoom avanti/indietro"></button>
+				<button class="pswp__button pswp__button--fs" aria-label="Attivare o disattivare schermo intero"></button>
+				<button class="pswp__button pswp__button--share" aria-label="Condividi"></button>
+				<button class="pswp__button pswp__button--close" aria-label="Chiudi (Esc)"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" aria-label="Precedente (freccia a sinistra)"></button>
+			<button class="pswp__button pswp__button--arrow--right" aria-label="Successivo (freccia destra)"></button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				jQuery('body').on('click', '.oxy-menu-toggle', function() {
+					jQuery(this).parent('.oxy-nav-menu').toggleClass('oxy-nav-menu-open');
+					jQuery('body').toggleClass('oxy-nav-menu-prevent-overflow');
+					jQuery('html').toggleClass('oxy-nav-menu-prevent-overflow');
+				});
+				var selector = '.oxy-nav-menu-open .menu-item a[href*="#"]';
+				jQuery('body').on('click', selector, function(){
+					jQuery('.oxy-nav-menu-open').removeClass('oxy-nav-menu-open');
+					jQuery('body').removeClass('oxy-nav-menu-prevent-overflow');
+					jQuery('html').removeClass('oxy-nav-menu-prevent-overflow');
+					jQuery(this).click();
+				});
+			});
+		</script>
+
+	
+		<script type="text/javascript">
+
+			jQuery(document).ready(function() {
+                let event = new Event('oxygenVSBInitToggleJs');
+                document.dispatchEvent(event);
+			});
+
+            document.addEventListener("oxygenVSBInitToggleJs",function(){
+                oxygenVSBInitToggleState();
+            },false);
+
+			oxygenVSBInitToggleState = function() {
+
+				jQuery('.oxy-toggle').each(function() {
+				
+					var initial_state = jQuery(this).attr('data-oxy-toggle-initial-state'),
+					   toggle_target = jQuery(this).attr('data-oxy-toggle-target'),
+                       active_class = jQuery(this).attr('data-oxy-toggle-active-class');
+				
+					if (initial_state == 'closed') {
+						if (!toggle_target) {
+							jQuery(this).next().hide();
+						} else {
+							jQuery(toggle_target).hide();
+						}
+						jQuery(this).children('.oxy-expand-collapse-icon').addClass('oxy-eci-collapsed');
+                        jQuery(this).removeClass(active_class)
+					}
+                    else {
+                        jQuery(this).addClass(active_class)
+                    }
+				});
+			}
+
+            jQuery("body").on('click', '.oxy-toggle', function() {
+
+                var toggle_target  = jQuery(this).attr('data-oxy-toggle-target'),
+                    active_class   = jQuery(this).attr('data-oxy-toggle-active-class');
+
+                jQuery(this).toggleClass(active_class)
+                jQuery(this).children('.oxy-expand-collapse-icon').toggleClass('oxy-eci-collapsed');
+
+                if (!toggle_target) {
+                    jQuery(this).next().toggle();
+                } else {
+                    jQuery(toggle_target).toggle();
+                }
+
+                // force 3rd party plugins to rerender things inside the toggle
+                jQuery(window).trigger('resize');
+            });
+		</script>
+
+	
+		<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		   <defs>
+		      <symbol id="oxy-social-icons-icon-linkedin" viewBox="0 0 32 32">
+		         <title>linkedin</title>
+		         <path d="M12 12h5.535v2.837h0.079c0.77-1.381 2.655-2.837 5.464-2.837 5.842 0 6.922 3.637 6.922 8.367v9.633h-5.769v-8.54c0-2.037-0.042-4.657-3.001-4.657-3.005 0-3.463 2.218-3.463 4.509v8.688h-5.767v-18z"></path>
+		         <path d="M2 12h6v18h-6v-18z"></path>
+		         <path d="M8 7c0 1.657-1.343 3-3 3s-3-1.343-3-3c0-1.657 1.343-3 3-3s3 1.343 3 3z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-facebook" viewBox="0 0 32 32">
+		         <title>facebook</title>
+		         <path d="M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-pinterest" viewBox="0 0 32 32">
+		         <title>pinterest</title>
+		         <path d="M16 2.138c-7.656 0-13.863 6.206-13.863 13.863 0 5.875 3.656 10.887 8.813 12.906-0.119-1.094-0.231-2.781 0.050-3.975 0.25-1.081 1.625-6.887 1.625-6.887s-0.412-0.831-0.412-2.056c0-1.925 1.119-3.369 2.506-3.369 1.181 0 1.756 0.887 1.756 1.95 0 1.188-0.756 2.969-1.15 4.613-0.331 1.381 0.688 2.506 2.050 2.506 2.462 0 4.356-2.6 4.356-6.35 0-3.319-2.387-5.638-5.787-5.638-3.944 0-6.256 2.956-6.256 6.019 0 1.194 0.456 2.469 1.031 3.163 0.113 0.137 0.131 0.256 0.094 0.4-0.106 0.438-0.338 1.381-0.387 1.575-0.063 0.256-0.2 0.306-0.463 0.188-1.731-0.806-2.813-3.337-2.813-5.369 0-4.375 3.175-8.387 9.156-8.387 4.806 0 8.544 3.425 8.544 8.006 0 4.775-3.012 8.625-7.194 8.625-1.406 0-2.725-0.731-3.175-1.594 0 0-0.694 2.644-0.863 3.294-0.313 1.206-1.156 2.712-1.725 3.631 1.3 0.4 2.675 0.619 4.106 0.619 7.656 0 13.863-6.206 13.863-13.863 0-7.662-6.206-13.869-13.863-13.869z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-youtube" viewBox="0 0 32 32">
+		         <title>youtube</title>
+		         <path d="M31.681 9.6c0 0-0.313-2.206-1.275-3.175-1.219-1.275-2.581-1.281-3.206-1.356-4.475-0.325-11.194-0.325-11.194-0.325h-0.012c0 0-6.719 0-11.194 0.325-0.625 0.075-1.987 0.081-3.206 1.356-0.963 0.969-1.269 3.175-1.269 3.175s-0.319 2.588-0.319 5.181v2.425c0 2.587 0.319 5.181 0.319 5.181s0.313 2.206 1.269 3.175c1.219 1.275 2.819 1.231 3.531 1.369 2.563 0.244 10.881 0.319 10.881 0.319s6.725-0.012 11.2-0.331c0.625-0.075 1.988-0.081 3.206-1.356 0.962-0.969 1.275-3.175 1.275-3.175s0.319-2.587 0.319-5.181v-2.425c-0.006-2.588-0.325-5.181-0.325-5.181zM12.694 20.15v-8.994l8.644 4.513-8.644 4.481z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-rss" viewBox="0 0 32 32">
+		         <title>rss</title>
+		         <path d="M4.259 23.467c-2.35 0-4.259 1.917-4.259 4.252 0 2.349 1.909 4.244 4.259 4.244 2.358 0 4.265-1.895 4.265-4.244-0-2.336-1.907-4.252-4.265-4.252zM0.005 10.873v6.133c3.993 0 7.749 1.562 10.577 4.391 2.825 2.822 4.384 6.595 4.384 10.603h6.16c-0-11.651-9.478-21.127-21.121-21.127zM0.012 0v6.136c14.243 0 25.836 11.604 25.836 25.864h6.152c0-17.64-14.352-32-31.988-32z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-twitter" viewBox="0 0 512 512">
+		         <title>twitter</title>
+		         <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-instagram" viewBox="0 0 32 32">
+		         <title>instagram</title>
+		         <path d="M16 2.881c4.275 0 4.781 0.019 6.462 0.094 1.563 0.069 2.406 0.331 2.969 0.55 0.744 0.288 1.281 0.638 1.837 1.194 0.563 0.563 0.906 1.094 1.2 1.838 0.219 0.563 0.481 1.412 0.55 2.969 0.075 1.688 0.094 2.194 0.094 6.463s-0.019 4.781-0.094 6.463c-0.069 1.563-0.331 2.406-0.55 2.969-0.288 0.744-0.637 1.281-1.194 1.837-0.563 0.563-1.094 0.906-1.837 1.2-0.563 0.219-1.413 0.481-2.969 0.55-1.688 0.075-2.194 0.094-6.463 0.094s-4.781-0.019-6.463-0.094c-1.563-0.069-2.406-0.331-2.969-0.55-0.744-0.288-1.281-0.637-1.838-1.194-0.563-0.563-0.906-1.094-1.2-1.837-0.219-0.563-0.481-1.413-0.55-2.969-0.075-1.688-0.094-2.194-0.094-6.463s0.019-4.781 0.094-6.463c0.069-1.563 0.331-2.406 0.55-2.969 0.288-0.744 0.638-1.281 1.194-1.838 0.563-0.563 1.094-0.906 1.838-1.2 0.563-0.219 1.412-0.481 2.969-0.55 1.681-0.075 2.188-0.094 6.463-0.094zM16 0c-4.344 0-4.887 0.019-6.594 0.094-1.7 0.075-2.869 0.35-3.881 0.744-1.056 0.412-1.95 0.956-2.837 1.85-0.894 0.888-1.438 1.781-1.85 2.831-0.394 1.019-0.669 2.181-0.744 3.881-0.075 1.713-0.094 2.256-0.094 6.6s0.019 4.887 0.094 6.594c0.075 1.7 0.35 2.869 0.744 3.881 0.413 1.056 0.956 1.95 1.85 2.837 0.887 0.887 1.781 1.438 2.831 1.844 1.019 0.394 2.181 0.669 3.881 0.744 1.706 0.075 2.25 0.094 6.594 0.094s4.888-0.019 6.594-0.094c1.7-0.075 2.869-0.35 3.881-0.744 1.050-0.406 1.944-0.956 2.831-1.844s1.438-1.781 1.844-2.831c0.394-1.019 0.669-2.181 0.744-3.881 0.075-1.706 0.094-2.25 0.094-6.594s-0.019-4.887-0.094-6.594c-0.075-1.7-0.35-2.869-0.744-3.881-0.394-1.063-0.938-1.956-1.831-2.844-0.887-0.887-1.781-1.438-2.831-1.844-1.019-0.394-2.181-0.669-3.881-0.744-1.712-0.081-2.256-0.1-6.6-0.1v0z"></path>
+		         <path d="M16 7.781c-4.537 0-8.219 3.681-8.219 8.219s3.681 8.219 8.219 8.219 8.219-3.681 8.219-8.219c0-4.537-3.681-8.219-8.219-8.219zM16 21.331c-2.944 0-5.331-2.387-5.331-5.331s2.387-5.331 5.331-5.331c2.944 0 5.331 2.387 5.331 5.331s-2.387 5.331-5.331 5.331z"></path>
+		         <path d="M26.462 7.456c0 1.060-0.859 1.919-1.919 1.919s-1.919-0.859-1.919-1.919c0-1.060 0.859-1.919 1.919-1.919s1.919 0.859 1.919 1.919z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-facebook-blank" viewBox="0 0 32 32">
+		         <title>facebook-blank</title>
+		         <path d="M29 0h-26c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h13v-14h-4v-4h4v-2c0-3.306 2.694-6 6-6h4v4h-4c-1.1 0-2 0.9-2 2v2h6l-1 4h-5v14h9c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-rss-blank" viewBox="0 0 32 32">
+		         <title>rss-blank</title>
+		         <path d="M29 0h-26c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM8.719 25.975c-1.5 0-2.719-1.206-2.719-2.706 0-1.488 1.219-2.712 2.719-2.712 1.506 0 2.719 1.225 2.719 2.712 0 1.5-1.219 2.706-2.719 2.706zM15.544 26c0-2.556-0.994-4.962-2.794-6.762-1.806-1.806-4.2-2.8-6.75-2.8v-3.912c7.425 0 13.475 6.044 13.475 13.475h-3.931zM22.488 26c0-9.094-7.394-16.5-16.481-16.5v-3.912c11.25 0 20.406 9.162 20.406 20.413h-3.925z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-linkedin-blank" viewBox="0 0 32 32">
+		         <title>linkedin-blank</title>
+		         <path d="M29 0h-26c-1.65 0-3 1.35-3 3v26c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3v-26c0-1.65-1.35-3-3-3zM12 26h-4v-14h4v14zM10 10c-1.106 0-2-0.894-2-2s0.894-2 2-2c1.106 0 2 0.894 2 2s-0.894 2-2 2zM26 26h-4v-8c0-1.106-0.894-2-2-2s-2 0.894-2 2v8h-4v-14h4v2.481c0.825-1.131 2.087-2.481 3.5-2.481 2.488 0 4.5 2.238 4.5 5v9z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-pinterest-blank" viewBox="0 0 32 32">
+		         <title>pinterest</title>
+		         <path d="M16 2.138c-7.656 0-13.863 6.206-13.863 13.863 0 5.875 3.656 10.887 8.813 12.906-0.119-1.094-0.231-2.781 0.050-3.975 0.25-1.081 1.625-6.887 1.625-6.887s-0.412-0.831-0.412-2.056c0-1.925 1.119-3.369 2.506-3.369 1.181 0 1.756 0.887 1.756 1.95 0 1.188-0.756 2.969-1.15 4.613-0.331 1.381 0.688 2.506 2.050 2.506 2.462 0 4.356-2.6 4.356-6.35 0-3.319-2.387-5.638-5.787-5.638-3.944 0-6.256 2.956-6.256 6.019 0 1.194 0.456 2.469 1.031 3.163 0.113 0.137 0.131 0.256 0.094 0.4-0.106 0.438-0.338 1.381-0.387 1.575-0.063 0.256-0.2 0.306-0.463 0.188-1.731-0.806-2.813-3.337-2.813-5.369 0-4.375 3.175-8.387 9.156-8.387 4.806 0 8.544 3.425 8.544 8.006 0 4.775-3.012 8.625-7.194 8.625-1.406 0-2.725-0.731-3.175-1.594 0 0-0.694 2.644-0.863 3.294-0.313 1.206-1.156 2.712-1.725 3.631 1.3 0.4 2.675 0.619 4.106 0.619 7.656 0 13.863-6.206 13.863-13.863 0-7.662-6.206-13.869-13.863-13.869z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-youtube-blank" viewBox="0 0 32 32">
+		         <title>youtube</title>
+		         <path d="M31.681 9.6c0 0-0.313-2.206-1.275-3.175-1.219-1.275-2.581-1.281-3.206-1.356-4.475-0.325-11.194-0.325-11.194-0.325h-0.012c0 0-6.719 0-11.194 0.325-0.625 0.075-1.987 0.081-3.206 1.356-0.963 0.969-1.269 3.175-1.269 3.175s-0.319 2.588-0.319 5.181v2.425c0 2.587 0.319 5.181 0.319 5.181s0.313 2.206 1.269 3.175c1.219 1.275 2.819 1.231 3.531 1.369 2.563 0.244 10.881 0.319 10.881 0.319s6.725-0.012 11.2-0.331c0.625-0.075 1.988-0.081 3.206-1.356 0.962-0.969 1.275-3.175 1.275-3.175s0.319-2.587 0.319-5.181v-2.425c-0.006-2.588-0.325-5.181-0.325-5.181zM12.694 20.15v-8.994l8.644 4.513-8.644 4.481z"></path>
+		      </symbol>
+		      <symbol id="oxy-social-icons-icon-twitter-blank" viewBox="0 0 448 512">
+				<title>twitter</title>
+				<path d="M64 32C28.7 32 0 60.7 0 96V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm297.1 84L257.3 234.6 379.4 396H283.8L209 298.1 123.3 396H75.8l111-126.9L69.7 116h98l67.7 89.5L313.6 116h47.5zM323.3 367.6L153.4 142.9H125.1L296.9 367.6h26.3z"></path>
+			  </symbol>
+		      <symbol id="oxy-social-icons-icon-instagram-blank" viewBox="0 0 32 32">
+		         <title>instagram</title>
+		         <path d="M16 2.881c4.275 0 4.781 0.019 6.462 0.094 1.563 0.069 2.406 0.331 2.969 0.55 0.744 0.288 1.281 0.638 1.837 1.194 0.563 0.563 0.906 1.094 1.2 1.838 0.219 0.563 0.481 1.412 0.55 2.969 0.075 1.688 0.094 2.194 0.094 6.463s-0.019 4.781-0.094 6.463c-0.069 1.563-0.331 2.406-0.55 2.969-0.288 0.744-0.637 1.281-1.194 1.837-0.563 0.563-1.094 0.906-1.837 1.2-0.563 0.219-1.413 0.481-2.969 0.55-1.688 0.075-2.194 0.094-6.463 0.094s-4.781-0.019-6.463-0.094c-1.563-0.069-2.406-0.331-2.969-0.55-0.744-0.288-1.281-0.637-1.838-1.194-0.563-0.563-0.906-1.094-1.2-1.837-0.219-0.563-0.481-1.413-0.55-2.969-0.075-1.688-0.094-2.194-0.094-6.463s0.019-4.781 0.094-6.463c0.069-1.563 0.331-2.406 0.55-2.969 0.288-0.744 0.638-1.281 1.194-1.838 0.563-0.563 1.094-0.906 1.838-1.2 0.563-0.219 1.412-0.481 2.969-0.55 1.681-0.075 2.188-0.094 6.463-0.094zM16 0c-4.344 0-4.887 0.019-6.594 0.094-1.7 0.075-2.869 0.35-3.881 0.744-1.056 0.412-1.95 0.956-2.837 1.85-0.894 0.888-1.438 1.781-1.85 2.831-0.394 1.019-0.669 2.181-0.744 3.881-0.075 1.713-0.094 2.256-0.094 6.6s0.019 4.887 0.094 6.594c0.075 1.7 0.35 2.869 0.744 3.881 0.413 1.056 0.956 1.95 1.85 2.837 0.887 0.887 1.781 1.438 2.831 1.844 1.019 0.394 2.181 0.669 3.881 0.744 1.706 0.075 2.25 0.094 6.594 0.094s4.888-0.019 6.594-0.094c1.7-0.075 2.869-0.35 3.881-0.744 1.050-0.406 1.944-0.956 2.831-1.844s1.438-1.781 1.844-2.831c0.394-1.019 0.669-2.181 0.744-3.881 0.075-1.706 0.094-2.25 0.094-6.594s-0.019-4.887-0.094-6.594c-0.075-1.7-0.35-2.869-0.744-3.881-0.394-1.063-0.938-1.956-1.831-2.844-0.887-0.887-1.781-1.438-2.831-1.844-1.019-0.394-2.181-0.669-3.881-0.744-1.712-0.081-2.256-0.1-6.6-0.1v0z"></path>
+		         <path d="M16 7.781c-4.537 0-8.219 3.681-8.219 8.219s3.681 8.219 8.219 8.219 8.219-3.681 8.219-8.219c0-4.537-3.681-8.219-8.219-8.219zM16 21.331c-2.944 0-5.331-2.387-5.331-5.331s2.387-5.331 5.331-5.331c2.944 0 5.331 2.387 5.331 5.331s-2.387 5.331-5.331 5.331z"></path>
+		         <path d="M26.462 7.456c0 1.060-0.859 1.919-1.919 1.919s-1.919-0.859-1.919-1.919c0-1.060 0.859-1.919 1.919-1.919s1.919 0.859 1.919 1.919z"></path>
+		      </symbol>
+		   </defs>
+		</svg>
+	
+		<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wc-blocks-style-css' href='https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.6.2' media='all' />
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+</style>
+<script src="https://fettuccinealfredo.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://fettuccinealfredo.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.4" id="swv-js"></script>
+<script id="contact-form-7-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-03-02 21:28:53+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"it"},"This contact form is placed in the wrong place.":["Questo modulo di contatto \u00e8 posizionato nel posto sbagliato."],"Error:":["Errore:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+</script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/fettuccinealfredo.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+</script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.4" id="contact-form-7-js"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/sync-post-with-other-site/assets/js/sps_front_js.js?rand=221&amp;ver=1.8" id="sps_front_js-js"></script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.6.2" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0000000000000000818030539140313095458623138256371021270751953125e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/fettuccinealfredo.com\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+</script>
+<script src="https://fettuccinealfredo.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.6.2" id="wc-order-attribution-js"></script>
+<script type="text/javascript" id="ct-footer-js"></script><!-- /WP_FOOTER --> 
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.5.4 on 2025-03-31 16:46:50 -->
