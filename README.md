@@ -1,53 +1,153 @@
-# This is our Home Page
+# 🍽️ Food Delivery Platform
 
-![image](https://github.com/user-attachments/assets/82a89125-7c4c-4b1f-8654-5638bee41a3f)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/)
+[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white)](https://leafletjs.com/)
 
-![image](https://github.com/user-attachments/assets/77b259d5-465d-4226-a0d9-dd0fdcdcc1f4)
+A comprehensive food delivery application that allows users to browse restaurants, select dishes, place orders, and track delivery in real-time with intuitive user interface and robust backend functionality.
 
-![image](https://github.com/user-attachments/assets/7700875c-4dcc-4701-9af4-61b40d26c4ea)
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Screenshots](#screenshots)
+- [Future Roadmap](#future-roadmap)
 
-![image](https://github.com/user-attachments/assets/03fca245-3308-410e-b225-13f789371566)
+## 🌟 Overview
 
-![image](https://github.com/user-attachments/assets/c4aeed0b-5cbe-4102-a5d5-ac52177b3c3b)
+This food delivery platform provides a complete solution for online food ordering with real-time delivery tracking. The application features a user-friendly interface, secure authentication system, interactive menu browsing, and seamless order management capabilities.
 
-![image](https://github.com/user-attachments/assets/f4f355b9-21d2-41b6-ac93-5dcaa458035d)
+## ✨ Features
 
-# This is Our Menu Page
-### In Menu Page, We have all types of dishes like South Indian, North Indian, Chinese, Punjabi and other dishes like Burger, Pizzas, Sweet, etc.
+### Intuitive User Interface
+- Modern, responsive design for all devices
+- Clear visual hierarchy and intuitive navigation
+- Consistent header and footer across all pages
 
-![image](https://github.com/user-attachments/assets/1c69fa7e-4ea4-4444-9f59-80088b342d79)
+### Comprehensive Menu System
+- Horizontal scrolling menu categories
+- Featured dishes and customer favorites
+- Detailed food descriptions with high-quality images
 
-### In the above you can scroll to right to checkout the other types of dishes.
-![image](https://github.com/user-attachments/assets/ab76c5c2-bb33-4edc-a72c-aa266dad8615)
+### Secure Authentication
+- Multiple login options:
+  - Email/password registration
+  - Google and Facebook OAuth integration
+  - Phone number verification with OTP
 
-### These are some of the customers favorite dishes
-![image](https://github.com/user-attachments/assets/31878ebf-ca34-4f5c-88df-3357c95ef640)
+### Seamless Ordering Process
+- Interactive cart management
+- Address selection/input
+- Payment processing
+- Order confirmation
+- Real-time delivery tracking with maps
 
-### When u click on the any type of specific food like chichken on the scrollable part you get these page
-![image](https://github.com/user-attachments/assets/7344738f-260d-411a-bb18-6be8a5e9bc64)
-![image](https://github.com/user-attachments/assets/738c912c-7699-4bee-bcb2-fc7db2ff8cf3)
+### User Profile Management
+- Order history tracking
+- Saved addresses
+- Payment method management
+- User preferences
 
-# This is our Login Page, so for Login Page we have (Google Sign-In, Facebook Sign-In, Normal-Sign-In, Phone number - OTP Sign-In
-## We have Login as well as Sign-In Option
-![image](https://github.com/user-attachments/assets/acd5644d-2d5c-4bb8-94e6-1be55ada4a55)
+## 🛠️ Tech Stack
 
-## Now with the help of Google Sign-In, We have signined in the Google Account
-![image](https://github.com/user-attachments/assets/43af0d30-e0cf-4adb-884d-6ec9c7d1365a)
+### Frontend
+- React.js for component-based UI development
+- Responsive CSS framework
+- Modern JavaScript ES6+
 
-## In below image I have seleccted some items to order, when I add them into the cart, and click "CART", I go to Cart Page when you can see all my orders.
-![image](https://github.com/user-attachments/assets/ed4f0844-5ddb-4d7b-bc79-6ebf62f2bc53)
+### Backend
+- Supabase for authentication and database
+- RESTful API architecture
+- Leaflet for maps integration
 
-# This is the Cart Page
-![image](https://github.com/user-attachments/assets/b4aa5803-c964-4455-87ed-64036186aa8e)
+### Security
+- OAuth 2.0 implementation
+- Secure token management
+- Data encryption
 
-## When I proceed to checkout, I go on the below Checkout Page
-![image](https://github.com/user-attachments/assets/6317d3ae-0454-4ec6-96a0-a6ceedec518a)
+## 📥 Installation
 
-## When I place my order, The below Page appears
-![image](https://github.com/user-attachments/assets/bc02e65f-c8d6-4d25-834a-52bf8368f717)
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/food-delivery-platform.git
 
-## After clicking on the Track Order, we get The Map
-![image](https://github.com/user-attachments/assets/14e899c1-40ba-4ce9-99d9-8f6641a7559a)
+# Navigate to project directory
+cd food-delivery-platform
 
-### So This is How my and Ramsundar's Website works.
+# Install dependencies
+npm install
 
+# Set up environment variables
+cp .env.example .env
+# Edit .env with your Supabase credentials
+
+# Start development server
+npm start
+```
+
+## 🚀 Usage
+
+1. Register or log in using your preferred authentication method
+2. Browse restaurants and menu items by category
+3. Add desired items to your cart
+4. Proceed to checkout and enter delivery details
+5. Complete payment process
+6. Track your order in real-time on the map
+7. View order history in your profile
+
+## 👨‍💻 Contributors
+
+### Vinayak Vivek Joshi - Frontend Development
+- Home Page with dynamic content sections
+- Menu Page with category filtering
+- Cart and Checkout functionality
+- About Us Page
+- Login/Sign-Up interfaces
+- Header and Footer components
+
+### Ramsundar RadhaKrishnan - Backend Development
+- Authentication system with Supabase
+- Database architecture for users and orders
+- Maps integration with Leaflet routes
+- Order management system
+- Profile page and user management
+
+## 📸 Screenshots
+
+<details>
+<summary>View Screenshots</summary>
+
+### Home Page
+![Home Page Hero Section](https://github.com/user-attachments/assets/82a89125-7c4c-4b1f-8654-5638bee41a3f)
+![Featured Categories](https://github.com/user-attachments/assets/77b259d5-465d-4226-a0d9-dd0fdcdcc1f4)
+![Popular Restaurants](https://github.com/user-attachments/assets/7700875c-4dcc-4701-9af4-61b40d26c4ea)
+
+### Menu Page
+![Cuisine Categories](https://github.com/user-attachments/assets/1c69fa7e-4ea4-4444-9f59-80088b342d79)
+![Customer Favorites](https://github.com/user-attachments/assets/31878ebf-ca34-4f5c-88df-3357c95ef640)
+
+### Authentication & Orders
+![Login Options](https://github.com/user-attachments/assets/acd5644d-2d5c-4bb8-94e6-1be55ada4a55)
+![Shopping Cart](https://github.com/user-attachments/assets/b4aa5803-c964-4455-87ed-64036186aa8e)
+![Real-time Map Tracking](https://github.com/user-attachments/assets/14e899c1-40ba-4ce9-99d9-8f6641a7559a)
+
+### User Profile
+![Profile Overview](https://github.com/user-attachments/assets/a4686aeb-6449-4b81-97a7-3710be86377a)
+
+</details>
+
+## 🔮 Future Roadmap
+
+- Integration with additional payment gateways
+- Implementation of a loyalty program
+- Restaurant partner portal
+- Advanced search and filtering options
+- Personalized recommendations based on order history
+- Scheduled delivery options
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
