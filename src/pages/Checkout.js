@@ -451,7 +451,7 @@ function RouteMap({ restaurantLat, restaurantLon, userLat, userLon }) {
                   <div className="error-message">{formErrors.deliveryAddress}</div>
                 )}
               </div>
-              <button
+              {/*<button
               type="button"
               onClick={async () => {
                 const result = await geocodeAddress(deliveryAddress);
@@ -465,7 +465,7 @@ function RouteMap({ restaurantLat, restaurantLon, userLat, userLon }) {
               style={{ marginTop: "8px" }}
               >
               Show Route on Map
-            </button>
+            </button> */}
 
 
               <div className="form-row">

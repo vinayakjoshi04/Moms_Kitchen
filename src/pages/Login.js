@@ -237,15 +237,42 @@ function Login({ isOpen, onClose }) {
     setShowPassword(!showPassword);
   };
 
+  const handlePasswordReset = async () => {
+    setFormError("");
+  
+    if (!email) {
+      setFormError("Please enter your email to reset password");
+      return;
+    }
+  
+    try {
+      const { error } = await supabase.auth.resetPasswordForEmail(email, {
+        redirectTo: window.location.origin + "/account"
+      });
+      if (error) throw error;
+  
+      showToast("Password reset link sent to your email.");
+    } catch (err) {
+      setFormError("Error sending reset link: " + err.message);
+    }
+  };  
+
   // Social login options
-  const socialLogin = (provider) => {
-    setIsLoading(true);
-    console.log(`Logging in with ${provider}`);
-    
-    setTimeout(() => {
-      showSuccessMessage(`${provider} login successful!`);
-      setIsLoading(false);
-    }, 1500);
+  const socialLogin = async (provider) => {
+    setFormError("");
+    try {
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider,
+        options: {
+          redirectTo: window.location.origin + "/account", // adjust if needed
+        },
+      });
+
+      if (error) throw error;
+      // Redirect handled by Supabase
+    } catch (error) {
+      setFormError(`Failed to login with ${provider}: ${error.message}`);
+    }
   };
 
   // Focus on first OTP input when OTP is sent
@@ -323,7 +350,7 @@ function Login({ isOpen, onClose }) {
         <div className="social-login">
           <button 
             className="social-btn google" 
-            onClick={() => socialLogin('Google')}
+            onClick={() => socialLogin("google")}
             disabled={isLoading}
           >
             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -469,7 +496,9 @@ function Login({ isOpen, onClose }) {
 
               {isLogin && (
                 <div className="forgot-password">
-                  <a href="#reset-password">Forgot Password?</a>
+                  <button type="button" className="link-btn" onClick={handlePasswordReset}>
+                    Forgot Password?
+                  </button>
                 </div>
               )}
             </>
