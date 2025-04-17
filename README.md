@@ -17,5 +17,19 @@
 
 ![image](https://github.com/user-attachments/assets/1c69fa7e-4ea4-4444-9f59-80088b342d79)
 
-### In the above you can scroll to right to chsckout the other types of dishes.
+### In the above you can scroll to right to checkout the other types of dishes.
 ![image](https://github.com/user-attachments/assets/ab76c5c2-bb33-4edc-a72c-aa266dad8615)
+
+### These are some of the customers favorite dishes
+![image](https://github.com/user-attachments/assets/31878ebf-ca34-4f5c-88df-3357c95ef640)
+
+### When u click on the any type of specific food like chichken on the scrollable part you get these page
+![image](https://github.com/user-attachments/assets/7344738f-260d-411a-bb18-6be8a5e9bc64)
+
+
+
+
+
+
+
+
