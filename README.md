@@ -136,7 +136,6 @@ npm start
 
 ## 📸 Screenshots
 
-<details>
 <summary>View Screenshots</summary>
 
 ### Home Page
@@ -163,7 +162,6 @@ npm start
 ![image](https://github.com/user-attachments/assets/4560e1cf-ea12-4562-8f88-0d2c733770b7)
 ![image](https://github.com/user-attachments/assets/02d4dc74-1af1-474a-93e4-93f2ae16d801)
 
-</details>
 
 ## 🔮 Future Roadmap
 
