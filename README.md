@@ -74,6 +74,7 @@ This food delivery platform provides a complete solution for online food orderin
 - Secure token management
 - Data encryption
 
+```bash
 ## 📥 Installation
 
 # Clone the repository
@@ -92,7 +93,7 @@ cp .env.example .env
 
 # Start the development server
 npm start
-
+```
 
 ## 🚀 Usage
 
