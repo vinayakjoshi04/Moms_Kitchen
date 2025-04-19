@@ -114,7 +114,7 @@ npm start
 - Responsive Header with navigation, search functionality, and user profile access
 - Footer with site map, contact information, and social media integration
 
-### Ramsundar RadhaKrishnan - Backend Development
+### Ram Sundar Radhakrishnan - Backend Development
 - Robust authentication system with Supabase including role-based access control and session management
 - Scalable database architecture with optimized queries for users, restaurants, menus, and orders
 - Real-time geolocation tracking with Leaflet API integration for accurate delivery routes and ETA calculations
