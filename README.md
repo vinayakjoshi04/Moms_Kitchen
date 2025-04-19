@@ -131,7 +131,7 @@ npm start
 - Clean, responsive, and intuitive UI
 - State management and component optimization for seamless performance
 - Deployed Link for Restaurant Dashboard - https://momskitchendashboard.netlify.app/
-- This is the github link of Restaurant Dashboard - https://github.com/mittalrishab/restaurant_owner_dashboard
+- This is the github link of Restaurant Dashboard - https://github.com/mittalrishab/restraunt_owner_dashboard
 
 ## 📸 Screenshots
 
