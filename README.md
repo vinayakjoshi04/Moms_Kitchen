@@ -111,7 +111,7 @@ npm start
 - Interactive Menu Page with advanced filtering options for cuisine types, price ranges, dietary preferences, and popularity metrics
 - Comprehensive Cart and Checkout system with address management, payment integration, and order summary
 - Engaging About Us section highlighting platform features, mission statement, and team information
-- Responsive Header with navigation, search functionality, and user profile access
+- Responsive Header with navigation, search functionality, and Login/Sign Up Page
 - Footer with site map, contact information, and social media integration
 
 ### Ram Sundar Radhakrishnan - Backend Development
