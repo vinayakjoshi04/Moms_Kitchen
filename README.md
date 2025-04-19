@@ -115,6 +115,15 @@ npm start
 - Order management system
 - Profile page and user management
 
+### Rishabh Mittal - Restraunt Owner Dashboard
+Code for the Dashboard - https://github.com/mittalrishab/restraunt_owner_dashboard
+Deployed Link - https://momskitchendashboard.netlify.app/
+- Full CRUD Functionality – Easily manage menu items (Create, Read, Update, Delete)
+- Data Visualization – Interactive bar charts showing total dishes, average price, and category breakdown
+- Real-time Search & Filters – Quickly find and organize menu items with smart filtering options
+- Modern UI – Clean, responsive interface built with React and modern component libraries
+- Optimized Performance – Efficient state management and component optimization for a smooth UX
+
 ## 📸 Screenshots
 
 <details>
