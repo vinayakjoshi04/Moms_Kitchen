@@ -51,6 +51,12 @@ This food delivery platform provides a complete solution for online food orderin
 - Payment method management
 - User preferences
 
+### Restaurant Owner Dashboard
+- Full CRUD operations for menu management
+- Data visualization with interactive bar charts
+- Real-time search and advanced filtering options
+- Clean, responsive, and intuitive UI
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -100,37 +106,35 @@ npm start
 
 ## 👨‍💻 Contributors
 
-### Vinayak Vivek Joshi - Frontend Development
-- Home Page with dynamic content sections
-- Menu Page with category filtering
-- Cart and Checkout functionality
-- About Us Page
-- Login/Sign-Up interfaces
-- Header and Footer components
+### Vinayak Vivek Joshi - Frontend Development (Food Delivery Website)
+- Home Page with dynamic content sections including hero carousels, featured restaurants, and promotional banners
+- Interactive Menu Page with advanced filtering options for cuisine types, price ranges, dietary preferences, and popularity metrics
+- Comprehensive Cart and Checkout system with address management, payment integration, and order summary
+- Engaging About Us section highlighting platform features, mission statement, and team information
+- Responsive Header with navigation, search functionality, and user profile access
+- Footer with site map, contact information, and social media integration
 
 ### Ramsundar RadhaKrishnan - Backend Development
-- Authentication system with Supabase
-- Database architecture for users and orders
-- Maps integration with Leaflet routes
-- Order management system
-- Profile page and user management
+- Robust authentication system with Supabase including role-based access control and session management
+- Scalable database architecture with optimized queries for users, restaurants, menus, and orders
+- Real-time geolocation tracking with Leaflet API integration for accurate delivery routes and ETA calculations
+- Advanced order management system with status updates, notifications, and delivery assignment algorithms
+- Comprehensive user profile management with secure data handling and preference storage
+- API endpoint development with proper error handling, validation, and performance optimization
+- Database migration and seeding scripts for development and production environments
 
-### Rishabh Mittal - Restraunt Owner Dashboard
-Code for the Dashboard - https://github.com/mittalrishab/restraunt_owner_dashboard
-Deployed Link - https://momskitchendashboard.netlify.app/
-- Full CRUD Functionality – Easily manage menu items (Create, Read, Update, Delete)
-- Data Visualization – Interactive bar charts showing total dishes, average price, and category breakdown
-- Real-time Search & Filters – Quickly find and organize menu items with smart filtering options
-- Modern UI – Clean, responsive interface built with React and modern component libraries
-- Optimized Performance – Efficient state management and component optimization for a smooth UX
+### Rishab Mittal - Frontend Developer (Restaurant Dashboard)
+- Dynamic and feature-rich dashboard for restaurant owners
+- Full CRUD operations for menu item management
+- Data visualization with interactive bar charts
+- Real-time search and advanced filtering options
+- Clean, responsive, and intuitive UI
+- State management and component optimization for seamless performance
 
 ## 📸 Screenshots
 
 <details>
 <summary>View Screenshots</summary>
-
-
-
 
 ### Home Page
 ![Home Page Hero Section](https://github.com/user-attachments/assets/82a89125-7c4c-4b1f-8654-5638bee41a3f)
@@ -149,6 +153,13 @@ Deployed Link - https://momskitchendashboard.netlify.app/
 ### User Profile
 ![Profile Overview](https://github.com/user-attachments/assets/a4686aeb-6449-4b81-97a7-3710be86377a)
 
+### Restaurant Dashboard
+![image](https://github.com/user-attachments/assets/ab9ec49b-ac30-4da1-8e71-00dc3d8d548e)
+![image](https://github.com/user-attachments/assets/8f736aa6-4e4f-4d47-9ef3-6861b6382581)
+![image](https://github.com/user-attachments/assets/857f4cb3-003b-45c0-9c90-2da4af1ddd82)
+![image](https://github.com/user-attachments/assets/4560e1cf-ea12-4562-8f88-0d2c733770b7)
+![image](https://github.com/user-attachments/assets/02d4dc74-1af1-474a-93e4-93f2ae16d801)
+
 </details>
 
 ## 🔮 Future Roadmap
@@ -159,4 +170,3 @@ Deployed Link - https://momskitchendashboard.netlify.app/
 - Advanced search and filtering options
 - Personalized recommendations based on order history
 - Scheduled delivery options
-
