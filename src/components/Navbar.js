@@ -112,7 +112,7 @@ function Navbar() {
               {/* --- Owner Dashboard Button Added Here --- */}
               <li>
                 <a
-                  href="https://dashboard.momskitchen.com"
+                  href="https://momskitchendashboard.netlify.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="nav-link dashboard-link"
