@@ -76,23 +76,23 @@ This food delivery platform provides a complete solution for online food orderin
 
 ## 📥 Installation
 
-```bash
 # Clone the repository
-git clone https://github.com/yourusername/food-delivery-platform.git
+git clone https://github.com/vinayakjoshi04/Moms_Kitchen.git
 
-# Navigate to project directory
-cd food-delivery-platform
+# Navigate to the project directory
+cd Moms_Kitchen
 
 # Install dependencies
 npm install
 
 # Set up environment variables
 cp .env.example .env
-# Edit .env with your Supabase credentials
 
-# Start development server
+# Edit the .env file with your Supabase credentials
+
+# Start the development server
 npm start
-```
+
 
 ## 🚀 Usage
 
