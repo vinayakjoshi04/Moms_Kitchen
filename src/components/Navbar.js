@@ -20,17 +20,16 @@ function Navbar() {
   useEffect(() => {
     const handleScroll = () => {
       if (!isHomePage) return;
-      
       const scrollPosition = window.scrollY;
       setIsTransparent(scrollPosition < 50);
     };
 
     // Initial check
     handleScroll();
-    
+
     // Add event listener
     window.addEventListener("scroll", handleScroll);
-    
+
     // Cleanup
     return () => window.removeEventListener("scroll", handleScroll);
   }, [isHomePage]);
@@ -53,31 +52,30 @@ function Navbar() {
   }, [isMobileMenuOpen]);
 
   useEffect(() => {
-  const fetchUser = async () => {
-    const {
-      data: { user },
-    } = await supabase.auth.getUser();
-    setUser(user);
-  };
+    const fetchUser = async () => {
+      const {
+        data: { user },
+      } = await supabase.auth.getUser();
+      setUser(user);
+    };
 
-  fetchUser();
+    fetchUser();
 
-  const { data: listener } = supabase.auth.onAuthStateChange((_event, session) => {
-    setUser(session?.user || null);
-  });
+    const { data: listener } = supabase.auth.onAuthStateChange((_event, session) => {
+      setUser(session?.user || null);
+    });
 
-  return () => {
-    listener.subscription.unsubscribe();
-  };
-}, []);
-
+    return () => {
+      listener.subscription.unsubscribe();
+    };
+  }, []);
 
   return (
     <>
       {/* Navbar */}
-      <header 
+      <header
         ref={navbarRef}
-        className={`navbar ${isHomePage ? (isTransparent ? "transparent" : "scrolled") : "static-black"} 
+        className={`navbar ${isHomePage ? (isTransparent ? "transparent" : "scrolled") : "static-black"}
                    ${isMobileMenuOpen ? "mobile-open" : ""}`}
       >
         <div className="navbar-container">
@@ -89,8 +87,8 @@ function Navbar() {
           </div>
 
           {/* Mobile menu toggle */}
-          <button 
-            className="mobile-menu-toggle" 
+          <button
+            className="mobile-menu-toggle"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             aria-label={isMobileMenuOpen ? "Close menu" : "Open menu"}
           >
@@ -99,43 +97,56 @@ function Navbar() {
 
           {/* Navigation Links */}
           <nav className={`nav-menu ${isMobileMenuOpen ? "active" : ""}`}>
-  <ul className="nav-links">
-    <li><Link to="/">Home</Link></li>
-    <li><Link to="/menu">Menu</Link></li>
-    <li><Link to="/cart">
-      <span className="icon-link">
-        <ShoppingCart size={18} />
-        <span>Cart</span>
-      </span>
-    </Link></li>
-    <li><Link to="/aboutus">About Us</Link></li>
-    {user ? (
-  <li>
-    <Link to="/account" className="nav-link icon-link">
-      <User size={18} />
-      <span className="username">
-        {user.user_metadata?.full_name || user.email}
-      </span>
-    </Link>
-  </li>
-) : (
-  <li>
-    <button 
-      className="nav-link login-link" 
-      onClick={() => setIsLoginOpen(true)}
-      aria-label="Open login form"
-    >
-      <span className="icon-link">
-        <User size={18} />
-        <span>Login</span>
-      </span>
-    </button>
-  </li>
-)}
-
-  </ul>
-</nav>
-
+            <ul className="nav-links">
+              <li><Link to="/">Home</Link></li>
+              <li><Link to="/menu">Menu</Link></li>
+              <li>
+                <Link to="/cart">
+                  <span className="icon-link">
+                    <ShoppingCart size={18} />
+                    <span>Cart</span>
+                  </span>
+                </Link>
+              </li>
+              <li><Link to="/aboutus">About Us</Link></li>
+              {/* --- Owner Dashboard Button Added Here --- */}
+              <li>
+                <a
+                  href="https://dashboard.momskitchen.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="nav-link dashboard-link"
+                  style={{ fontWeight: "bold", color: "#e67e22" }}
+                >
+                  Owner Dashboard
+                </a>
+              </li>
+              {/* --- End Owner Dashboard Button --- */}
+              {user ? (
+                <li>
+                  <Link to="/account" className="nav-link icon-link">
+                    <User size={18} />
+                    <span className="username">
+                      {user.user_metadata?.full_name || user.email}
+                    </span>
+                  </Link>
+                </li>
+              ) : (
+                <li>
+                  <button
+                    className="nav-link login-link"
+                    onClick={() => setIsLoginOpen(true)}
+                    aria-label="Open login form"
+                  >
+                    <span className="icon-link">
+                      <User size={18} />
+                      <span>Login</span>
+                    </span>
+                  </button>
+                </li>
+              )}
+            </ul>
+          </nav>
         </div>
       </header>
 
