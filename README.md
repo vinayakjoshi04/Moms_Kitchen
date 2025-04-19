@@ -136,8 +136,6 @@ npm start
 
 ## 📸 Screenshots
 
-<summary>View Screenshots</summary>
-
 ### Home Page
 ![Home Page Hero Section](https://github.com/user-attachments/assets/82a89125-7c4c-4b1f-8654-5638bee41a3f)
 ![Featured Categories](https://github.com/user-attachments/assets/77b259d5-465d-4226-a0d9-dd0fdcdcc1f4)
