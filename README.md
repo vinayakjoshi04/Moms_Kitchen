@@ -105,35 +105,6 @@ npm start
 6. Track your order in real-time on the map
 7. View order history in your profile
 
-## 👨‍💻 Contributors
-
-### Vinayak Vivek Joshi - Frontend Development (Food Delivery Website)
-- Home Page with dynamic content sections including hero carousels, featured restaurants, and promotional banners
-- Interactive Menu Page with advanced filtering options for cuisine types, price ranges, dietary preferences, and popularity metrics
-- Comprehensive Cart and Checkout system with address management, payment integration, and order summary
-- Engaging About Us section highlighting platform features, mission statement, and team information
-- Responsive Header with navigation, search functionality, and Login/Sign Up Page
-- Footer with site map, contact information, and social media integration
-
-### Ram Sundar Radhakrishnan - Backend Development
-- Robust authentication system with Supabase including role-based access control and session management
-- Scalable database architecture with optimized queries for users, restaurants, menus, and orders
-- Real-time geolocation tracking with Leaflet API integration for accurate delivery routes and ETA calculations
-- Advanced order management system with status updates, notifications, and delivery assignment algorithms
-- Comprehensive user profile management with secure data handling and preference storage
-- API endpoint development with proper error handling, validation, and performance optimization
-- Database migration and seeding scripts for development and production environments
-
-### Rishab Mittal - Frontend Developer (Restaurant Dashboard)
-- Dynamic and feature-rich dashboard for restaurant owners
-- Full CRUD operations for menu item management
-- Data visualization with interactive bar charts
-- Real-time search and advanced filtering options
-- Clean, responsive, and intuitive UI
-- State management and component optimization for seamless performance
-- **Deployed Link for Restaurant Dashboard** - https://momskitchendashboard.netlify.app/
-- **This is the github link of Restaurant Dashboard** - https://github.com/mittalrishab/restraunt_owner_dashboard
-
 ## 📸 Screenshots
 
 ### Home Page
@@ -152,14 +123,6 @@ npm start
 
 ### User Profile
 ![Profile Overview](https://github.com/user-attachments/assets/a4686aeb-6449-4b81-97a7-3710be86377a)
-
-### Restaurant Dashboard
-![image](https://github.com/user-attachments/assets/ab9ec49b-ac30-4da1-8e71-00dc3d8d548e)
-![image](https://github.com/user-attachments/assets/8f736aa6-4e4f-4d47-9ef3-6861b6382581)
-![image](https://github.com/user-attachments/assets/857f4cb3-003b-45c0-9c90-2da4af1ddd82)
-![image](https://github.com/user-attachments/assets/4560e1cf-ea12-4562-8f88-0d2c733770b7)
-![image](https://github.com/user-attachments/assets/02d4dc74-1af1-474a-93e4-93f2ae16d801)
-
 
 ## 🔮 Future Roadmap
 
